@@ -1,0 +1,3178 @@
+{
+  "https://www.emofid.com/": {
+    "https://my.emofid.com": {
+      "external": true
+    },
+    "https://learning.emofid.com/course/": {
+      "external": true
+    },
+    "https://learning.emofid.com/events/": {
+      "external": true
+    },
+    "https://learning.emofid.com/articles/": {
+      "external": true
+    },
+    "http://mfid.ir/edeasy": {
+      "external": true
+    },
+    "https://my.emofid.com/app/auth/login": {
+      "external": true
+    },
+    "https://my.emofid.com/app/auth/register": {
+      "external": true
+    },
+    "http://mfid.ir/vQSD": {
+      "external": true
+    },
+    "https://account.emofid.com/connect/signup?client_id=RegWebApp&redirect_uri=https://reg.emofid.com/": {
+      "external": true
+    },
+    "https://learning.emofid.com/introducing-the-rewards-section-of-pellekan/": {
+      "external": true
+    },
+    "https://learning.emofid.com/event/investment-fund-portfolio-16far/": {
+      "external": true
+    },
+    "https://learning.emofid.com/event/bill-williams-16far/": {
+      "external": true
+    },
+    "https://learning.emofid.com/event/price-target-16far/": {
+      "external": true
+    },
+    "https://iee.ir/": {
+      "external": true
+    },
+    "https://mefa.ir/fa-IR/mefa/1/page/%D8%B5%D9%81%D8%AD%D9%87-%D8%A7%D8%B5%D9%84%DB%8C": {
+      "external": true
+    },
+    "https://www.seo.ir/": {
+      "external": true
+    },
+    "https://tse.ir/": {
+      "external": true
+    },
+    "https://www.seba.ir/": {
+      "external": true
+    },
+    "https://www.ifb.ir/": {
+      "external": true
+    },
+    "https://www.ime.co.ir/": {
+      "external": true
+    },
+    "https://iaif.ir/index.php/fa/": {
+      "external": true
+    },
+    "https://my.emofid.com/": {
+      "external": true
+    },
+    "https://online.emofid.com/": {
+      "external": true
+    },
+    "https://pellekan.emofid.com/": {
+      "external": true
+    },
+    "http://www.bourseview.com/": {
+      "external": true
+    },
+    "https://learning.emofid.com/": {
+      "external": true
+    },
+    "https://se.emofid.com/login.html": {
+      "external": true
+    },
+    "https://marketwatch.emofid.com/topofmarket/": {
+      "external": true
+    },
+    "https://marketwatch.emofid.com/marketview/": {
+      "external": true
+    },
+    "https://learning.emofid.com/questions-archive/": {
+      "external": true
+    },
+    "https://learning.emofid.com/support": {
+      "external": true
+    },
+    "https://instagram.com/mofidsecurities/": {
+      "external": true
+    },
+    "https://www.linkedin.com/company/mofidsecurities/": {
+      "external": true
+    },
+    "https://t.me/MofidSecurities": {
+      "external": true
+    },
+    "https://trustseal.enamad.ir/?id=4571&Code=03c06kvrGauSkHVQAtMexOua1ghJEisj": {
+      "external": true
+    },
+    "https://www.emofid.com/mofid-app/": {
+      "external": false,
+      "https://my.emofid.com": {
+        "external": true
+      },
+      "https://learning.emofid.com/course/": {
+        "external": true
+      },
+      "https://learning.emofid.com/events/": {
+        "external": true
+      },
+      "https://learning.emofid.com/articles/": {
+        "external": true
+      },
+      "http://mfid.ir/edeasy": {
+        "external": true
+      },
+      "https://my.emofid.com/app/auth/login": {
+        "external": true
+      },
+      "https://my.emofid.com/app/auth/register": {
+        "external": true
+      },
+      "https://my.emofid.com/": {
+        "external": true
+      },
+      "https://online.emofid.com/": {
+        "external": true
+      },
+      "https://pellekan.emofid.com/": {
+        "external": true
+      },
+      "http://www.bourseview.com/": {
+        "external": true
+      },
+      "https://learning.emofid.com/": {
+        "external": true
+      },
+      "https://se.emofid.com/login.html": {
+        "external": true
+      },
+      "https://marketwatch.emofid.com/topofmarket/": {
+        "external": true
+      },
+      "https://marketwatch.emofid.com/marketview/": {
+        "external": true
+      },
+      "https://learning.emofid.com/questions-archive/": {
+        "external": true
+      },
+      "https://learning.emofid.com/support": {
+        "external": true
+      },
+      "https://instagram.com/mofidsecurities/": {
+        "external": true
+      },
+      "https://www.linkedin.com/company/mofidsecurities/": {
+        "external": true
+      },
+      "https://t.me/MofidSecurities": {
+        "external": true
+      },
+      "https://trustseal.enamad.ir/?id=4571&Code=03c06kvrGauSkHVQAtMexOua1ghJEisj": {
+        "external": true
+      }
+    },
+    "https://www.emofid.com/investment-advice/": {
+      "external": false,
+      "https://my.emofid.com": {
+        "external": true
+      },
+      "https://learning.emofid.com/course/": {
+        "external": true
+      },
+      "https://learning.emofid.com/events/": {
+        "external": true
+      },
+      "https://learning.emofid.com/articles/": {
+        "external": true
+      },
+      "http://mfid.ir/edeasy": {
+        "external": true
+      },
+      "https://my.emofid.com/app/auth/login": {
+        "external": true
+      },
+      "https://my.emofid.com/app/auth/register": {
+        "external": true
+      },
+      "https://my.emofid.com/": {
+        "external": true
+      },
+      "https://online.emofid.com/": {
+        "external": true
+      },
+      "https://pellekan.emofid.com/": {
+        "external": true
+      },
+      "http://www.bourseview.com/": {
+        "external": true
+      },
+      "https://learning.emofid.com/": {
+        "external": true
+      },
+      "https://se.emofid.com/login.html": {
+        "external": true
+      },
+      "https://marketwatch.emofid.com/topofmarket/": {
+        "external": true
+      },
+      "https://marketwatch.emofid.com/marketview/": {
+        "external": true
+      },
+      "https://learning.emofid.com/questions-archive/": {
+        "external": true
+      },
+      "https://learning.emofid.com/support": {
+        "external": true
+      },
+      "https://instagram.com/mofidsecurities/": {
+        "external": true
+      },
+      "https://www.linkedin.com/company/mofidsecurities/": {
+        "external": true
+      },
+      "https://t.me/MofidSecurities": {
+        "external": true
+      },
+      "https://trustseal.enamad.ir/?id=4571&Code=03c06kvrGauSkHVQAtMexOua1ghJEisj": {
+        "external": true
+      }
+    },
+    "https://www.emofid.com/news/": {
+      "external": false,
+      "https://my.emofid.com": {
+        "external": true
+      },
+      "https://learning.emofid.com/course/": {
+        "external": true
+      },
+      "https://learning.emofid.com/events/": {
+        "external": true
+      },
+      "https://learning.emofid.com/articles/": {
+        "external": true
+      },
+      "http://mfid.ir/edeasy": {
+        "external": true
+      },
+      "https://my.emofid.com/app/auth/login": {
+        "external": true
+      },
+      "https://my.emofid.com/app/auth/register": {
+        "external": true
+      },
+      "https://my.emofid.com/": {
+        "external": true
+      },
+      "https://online.emofid.com/": {
+        "external": true
+      },
+      "https://pellekan.emofid.com/": {
+        "external": true
+      },
+      "http://www.bourseview.com/": {
+        "external": true
+      },
+      "https://learning.emofid.com/": {
+        "external": true
+      },
+      "https://se.emofid.com/login.html": {
+        "external": true
+      },
+      "https://marketwatch.emofid.com/topofmarket/": {
+        "external": true
+      },
+      "https://marketwatch.emofid.com/marketview/": {
+        "external": true
+      },
+      "https://learning.emofid.com/questions-archive/": {
+        "external": true
+      },
+      "https://learning.emofid.com/support": {
+        "external": true
+      },
+      "https://instagram.com/mofidsecurities/": {
+        "external": true
+      },
+      "https://www.linkedin.com/company/mofidsecurities/": {
+        "external": true
+      },
+      "https://t.me/MofidSecurities": {
+        "external": true
+      },
+      "https://trustseal.enamad.ir/?id=4571&Code=03c06kvrGauSkHVQAtMexOua1ghJEisj": {
+        "external": true
+      }
+    },
+    "https://www.emofid.com/news/1673/%d8%b3%db%8c-%d8%b3%d8%a7%d9%84-%d9%be%db%8c%d8%b4%d8%b1%d9%81%d8%aa-%d9%85%d8%af%d8%a7%d9%88%d9%85-%d9%85%d9%81%db%8c%d8%af-%d8%af%d8%b1-%d9%86%d9%85%d8%a7%db%8c%d8%b4%da%af%d8%a7%d9%87/": {
+      "external": false,
+      "https://my.emofid.com": {
+        "external": true
+      },
+      "https://learning.emofid.com/course/": {
+        "external": true
+      },
+      "https://learning.emofid.com/events/": {
+        "external": true
+      },
+      "https://learning.emofid.com/articles/": {
+        "external": true
+      },
+      "http://mfid.ir/edeasy": {
+        "external": true
+      },
+      "https://my.emofid.com/app/auth/login": {
+        "external": true
+      },
+      "https://my.emofid.com/app/auth/register": {
+        "external": true
+      },
+      "https://my.emofid.com/": {
+        "external": true
+      },
+      "https://online.emofid.com/": {
+        "external": true
+      },
+      "https://pellekan.emofid.com/": {
+        "external": true
+      },
+      "http://www.bourseview.com/": {
+        "external": true
+      },
+      "https://learning.emofid.com/": {
+        "external": true
+      },
+      "https://se.emofid.com/login.html": {
+        "external": true
+      },
+      "https://marketwatch.emofid.com/topofmarket/": {
+        "external": true
+      },
+      "https://marketwatch.emofid.com/marketview/": {
+        "external": true
+      },
+      "https://learning.emofid.com/questions-archive/": {
+        "external": true
+      },
+      "https://learning.emofid.com/support": {
+        "external": true
+      },
+      "https://instagram.com/mofidsecurities/": {
+        "external": true
+      },
+      "https://www.linkedin.com/company/mofidsecurities/": {
+        "external": true
+      },
+      "https://t.me/MofidSecurities": {
+        "external": true
+      },
+      "https://trustseal.enamad.ir/?id=4571&Code=03c06kvrGauSkHVQAtMexOua1ghJEisj": {
+        "external": true
+      }
+    },
+    "https://www.emofid.com/news/1786/%d9%be%d8%b0%db%8c%d8%b1%d9%87%d9%86%d9%88%db%8c%d8%b3%db%8c-%d8%b5%d9%86%d8%af%d9%88%d9%82-%da%a9%d8%a7%d9%86%d9%87%d9%87%d8%a7%db%8c-%d9%81%d9%84%d8%b2%db%8c-%d9%85%d8%b9/": {
+      "external": false,
+      "https://my.emofid.com": {
+        "external": true
+      },
+      "https://learning.emofid.com/course/": {
+        "external": true
+      },
+      "https://learning.emofid.com/events/": {
+        "external": true
+      },
+      "https://learning.emofid.com/articles/": {
+        "external": true
+      },
+      "http://mfid.ir/edeasy": {
+        "external": true
+      },
+      "https://my.emofid.com/app/auth/login": {
+        "external": true
+      },
+      "https://my.emofid.com/app/auth/register": {
+        "external": true
+      },
+      "https://landing.emofid.com/madan/": {
+        "external": true
+      },
+      "https://my.emofid.com/": {
+        "external": true
+      },
+      "https://online.emofid.com/": {
+        "external": true
+      },
+      "https://pellekan.emofid.com/": {
+        "external": true
+      },
+      "http://www.bourseview.com/": {
+        "external": true
+      },
+      "https://learning.emofid.com/": {
+        "external": true
+      },
+      "https://se.emofid.com/login.html": {
+        "external": true
+      },
+      "https://marketwatch.emofid.com/topofmarket/": {
+        "external": true
+      },
+      "https://marketwatch.emofid.com/marketview/": {
+        "external": true
+      },
+      "https://learning.emofid.com/questions-archive/": {
+        "external": true
+      },
+      "https://learning.emofid.com/support": {
+        "external": true
+      },
+      "https://instagram.com/mofidsecurities/": {
+        "external": true
+      },
+      "https://www.linkedin.com/company/mofidsecurities/": {
+        "external": true
+      },
+      "https://t.me/MofidSecurities": {
+        "external": true
+      },
+      "https://trustseal.enamad.ir/?id=4571&Code=03c06kvrGauSkHVQAtMexOua1ghJEisj": {
+        "external": true
+      }
+    },
+    "https://www.emofid.com/branches/": {
+      "external": false,
+      "https://my.emofid.com": {
+        "external": true
+      },
+      "https://learning.emofid.com/course/": {
+        "external": true
+      },
+      "https://learning.emofid.com/events/": {
+        "external": true
+      },
+      "https://learning.emofid.com/articles/": {
+        "external": true
+      },
+      "http://mfid.ir/edeasy": {
+        "external": true
+      },
+      "https://my.emofid.com/app/auth/login": {
+        "external": true
+      },
+      "https://my.emofid.com/app/auth/register": {
+        "external": true
+      },
+      "https://my.emofid.com/": {
+        "external": true
+      },
+      "https://online.emofid.com/": {
+        "external": true
+      },
+      "https://pellekan.emofid.com/": {
+        "external": true
+      },
+      "http://www.bourseview.com/": {
+        "external": true
+      },
+      "https://learning.emofid.com/": {
+        "external": true
+      },
+      "https://se.emofid.com/login.html": {
+        "external": true
+      },
+      "https://marketwatch.emofid.com/topofmarket/": {
+        "external": true
+      },
+      "https://marketwatch.emofid.com/marketview/": {
+        "external": true
+      },
+      "https://learning.emofid.com/questions-archive/": {
+        "external": true
+      },
+      "https://learning.emofid.com/support": {
+        "external": true
+      },
+      "https://instagram.com/mofidsecurities/": {
+        "external": true
+      },
+      "https://www.linkedin.com/company/mofidsecurities/": {
+        "external": true
+      },
+      "https://t.me/MofidSecurities": {
+        "external": true
+      },
+      "https://trustseal.enamad.ir/?id=4571&Code=03c06kvrGauSkHVQAtMexOua1ghJEisj": {
+        "external": true
+      }
+    },
+    "https://www.emofid.com/news/1690/%d8%a2%d8%ba%d8%a7%d8%b2-%d9%be%d8%b0%db%8c%d8%b1%d9%87%d9%86%d9%88%db%8c%d8%b3%db%8c-%d8%b5%d9%86%d8%af%d9%88%d9%82-%d8%aa%d8%ae%d8%b5%d8%b5%db%8c-%d8%af%d8%a7%d8%b1%d9%88%db%8c%db%8c-%d9%85/": {
+      "external": false,
+      "https://my.emofid.com": {
+        "external": true
+      },
+      "https://learning.emofid.com/course/": {
+        "external": true
+      },
+      "https://learning.emofid.com/events/": {
+        "external": true
+      },
+      "https://learning.emofid.com/articles/": {
+        "external": true
+      },
+      "http://mfid.ir/edeasy": {
+        "external": true
+      },
+      "https://my.emofid.com/app/auth/login": {
+        "external": true
+      },
+      "https://my.emofid.com/app/auth/register": {
+        "external": true
+      },
+      "https://landing.emofid.com/daroono": {
+        "external": true
+      },
+      "https://my.emofid.com/": {
+        "external": true
+      },
+      "https://online.emofid.com/": {
+        "external": true
+      },
+      "https://pellekan.emofid.com/": {
+        "external": true
+      },
+      "http://www.bourseview.com/": {
+        "external": true
+      },
+      "https://learning.emofid.com/": {
+        "external": true
+      },
+      "https://se.emofid.com/login.html": {
+        "external": true
+      },
+      "https://marketwatch.emofid.com/topofmarket/": {
+        "external": true
+      },
+      "https://marketwatch.emofid.com/marketview/": {
+        "external": true
+      },
+      "https://learning.emofid.com/questions-archive/": {
+        "external": true
+      },
+      "https://learning.emofid.com/support": {
+        "external": true
+      },
+      "https://instagram.com/mofidsecurities/": {
+        "external": true
+      },
+      "https://www.linkedin.com/company/mofidsecurities/": {
+        "external": true
+      },
+      "https://t.me/MofidSecurities": {
+        "external": true
+      },
+      "https://trustseal.enamad.ir/?id=4571&Code=03c06kvrGauSkHVQAtMexOua1ghJEisj": {
+        "external": true
+      }
+    },
+    "https://www.emofid.com/mofid-card/": {
+      "external": false,
+      "https://my.emofid.com": {
+        "external": true
+      },
+      "https://learning.emofid.com/course/": {
+        "external": true
+      },
+      "https://learning.emofid.com/events/": {
+        "external": true
+      },
+      "https://learning.emofid.com/articles/": {
+        "external": true
+      },
+      "http://mfid.ir/edeasy": {
+        "external": true
+      },
+      "https://my.emofid.com/app/auth/login": {
+        "external": true
+      },
+      "https://my.emofid.com/app/auth/register": {
+        "external": true
+      },
+      "https://my.emofid.com/": {
+        "external": true
+      },
+      "https://online.emofid.com/": {
+        "external": true
+      },
+      "https://pellekan.emofid.com/": {
+        "external": true
+      },
+      "http://www.bourseview.com/": {
+        "external": true
+      },
+      "https://learning.emofid.com/": {
+        "external": true
+      },
+      "https://se.emofid.com/login.html": {
+        "external": true
+      },
+      "https://marketwatch.emofid.com/topofmarket/": {
+        "external": true
+      },
+      "https://marketwatch.emofid.com/marketview/": {
+        "external": true
+      },
+      "https://learning.emofid.com/questions-archive/": {
+        "external": true
+      },
+      "https://learning.emofid.com/support": {
+        "external": true
+      },
+      "https://instagram.com/mofidsecurities/": {
+        "external": true
+      },
+      "https://www.linkedin.com/company/mofidsecurities/": {
+        "external": true
+      },
+      "https://t.me/MofidSecurities": {
+        "external": true
+      },
+      "https://trustseal.enamad.ir/?id=4571&Code=03c06kvrGauSkHVQAtMexOua1ghJEisj": {
+        "external": true
+      }
+    },
+    "https://www.emofid.com/bank-accounts/": {
+      "external": false,
+      "https://my.emofid.com": {
+        "external": true
+      },
+      "https://learning.emofid.com/course/": {
+        "external": true
+      },
+      "https://learning.emofid.com/events/": {
+        "external": true
+      },
+      "https://learning.emofid.com/articles/": {
+        "external": true
+      },
+      "http://mfid.ir/edeasy": {
+        "external": true
+      },
+      "https://my.emofid.com/app/auth/login": {
+        "external": true
+      },
+      "https://my.emofid.com/app/auth/register": {
+        "external": true
+      },
+      "https://my.emofid.com/": {
+        "external": true
+      },
+      "https://online.emofid.com/": {
+        "external": true
+      },
+      "https://pellekan.emofid.com/": {
+        "external": true
+      },
+      "http://www.bourseview.com/": {
+        "external": true
+      },
+      "https://learning.emofid.com/": {
+        "external": true
+      },
+      "https://se.emofid.com/login.html": {
+        "external": true
+      },
+      "https://marketwatch.emofid.com/topofmarket/": {
+        "external": true
+      },
+      "https://marketwatch.emofid.com/marketview/": {
+        "external": true
+      },
+      "https://learning.emofid.com/questions-archive/": {
+        "external": true
+      },
+      "https://learning.emofid.com/support": {
+        "external": true
+      },
+      "https://instagram.com/mofidsecurities/": {
+        "external": true
+      },
+      "https://www.linkedin.com/company/mofidsecurities/": {
+        "external": true
+      },
+      "https://t.me/MofidSecurities": {
+        "external": true
+      },
+      "https://trustseal.enamad.ir/?id=4571&Code=03c06kvrGauSkHVQAtMexOua1ghJEisj": {
+        "external": true
+      }
+    },
+    "https://www.emofid.com/mofid-academy/": {
+      "external": false,
+      "https://my.emofid.com": {
+        "external": true
+      },
+      "https://learning.emofid.com/course/": {
+        "external": true
+      },
+      "https://learning.emofid.com/events/": {
+        "external": true
+      },
+      "https://learning.emofid.com/articles/": {
+        "external": true
+      },
+      "http://mfid.ir/edeasy": {
+        "external": true
+      },
+      "https://my.emofid.com/app/auth/login": {
+        "external": true
+      },
+      "https://my.emofid.com/app/auth/register": {
+        "external": true
+      },
+      "https://my.emofid.com/": {
+        "external": true
+      },
+      "https://online.emofid.com/": {
+        "external": true
+      },
+      "https://pellekan.emofid.com/": {
+        "external": true
+      },
+      "http://www.bourseview.com/": {
+        "external": true
+      },
+      "https://learning.emofid.com/": {
+        "external": true
+      },
+      "https://se.emofid.com/login.html": {
+        "external": true
+      },
+      "https://marketwatch.emofid.com/topofmarket/": {
+        "external": true
+      },
+      "https://marketwatch.emofid.com/marketview/": {
+        "external": true
+      },
+      "https://learning.emofid.com/questions-archive/": {
+        "external": true
+      },
+      "https://learning.emofid.com/support": {
+        "external": true
+      },
+      "https://instagram.com/mofidsecurities/": {
+        "external": true
+      },
+      "https://www.linkedin.com/company/mofidsecurities/": {
+        "external": true
+      },
+      "https://t.me/MofidSecurities": {
+        "external": true
+      },
+      "https://trustseal.enamad.ir/?id=4571&Code=03c06kvrGauSkHVQAtMexOua1ghJEisj": {
+        "external": true
+      }
+    },
+    "https://www.emofid.com/jobs/": {
+      "external": false,
+      "https://my.emofid.com": {
+        "external": true
+      },
+      "https://learning.emofid.com/course/": {
+        "external": true
+      },
+      "https://learning.emofid.com/events/": {
+        "external": true
+      },
+      "https://learning.emofid.com/articles/": {
+        "external": true
+      },
+      "http://mfid.ir/edeasy": {
+        "external": true
+      },
+      "https://my.emofid.com/app/auth/login": {
+        "external": true
+      },
+      "https://my.emofid.com/app/auth/register": {
+        "external": true
+      },
+      "https://my.emofid.com/": {
+        "external": true
+      },
+      "https://online.emofid.com/": {
+        "external": true
+      },
+      "https://pellekan.emofid.com/": {
+        "external": true
+      },
+      "http://www.bourseview.com/": {
+        "external": true
+      },
+      "https://learning.emofid.com/": {
+        "external": true
+      },
+      "https://se.emofid.com/login.html": {
+        "external": true
+      },
+      "https://marketwatch.emofid.com/topofmarket/": {
+        "external": true
+      },
+      "https://marketwatch.emofid.com/marketview/": {
+        "external": true
+      },
+      "https://learning.emofid.com/questions-archive/": {
+        "external": true
+      },
+      "https://learning.emofid.com/support": {
+        "external": true
+      },
+      "https://instagram.com/mofidsecurities/": {
+        "external": true
+      },
+      "https://www.linkedin.com/company/mofidsecurities/": {
+        "external": true
+      },
+      "https://t.me/MofidSecurities": {
+        "external": true
+      },
+      "https://trustseal.enamad.ir/?id=4571&Code=03c06kvrGauSkHVQAtMexOua1ghJEisj": {
+        "external": true
+      }
+    },
+    "https://www.emofid.com/ekhtiar/": {
+      "external": false,
+      "https://my.emofid.com": {
+        "external": true
+      },
+      "https://learning.emofid.com/course/": {
+        "external": true
+      },
+      "https://learning.emofid.com/events/": {
+        "external": true
+      },
+      "https://learning.emofid.com/articles/": {
+        "external": true
+      },
+      "http://mfid.ir/edeasy": {
+        "external": true
+      },
+      "https://my.emofid.com/app/auth/login": {
+        "external": true
+      },
+      "https://my.emofid.com/app/auth/register": {
+        "external": true
+      },
+      "http://mofid.ebgo.ir/": {
+        "external": true
+      },
+      "https://learning.emofid.com/video/what-we-do-learning-in-option-trading-course/": {
+        "external": true
+      },
+      "https://learning.emofid.com/futures-trading-code/": {
+        "external": true
+      },
+      "https://my.emofid.com/": {
+        "external": true
+      },
+      "https://online.emofid.com/": {
+        "external": true
+      },
+      "https://pellekan.emofid.com/": {
+        "external": true
+      },
+      "http://www.bourseview.com/": {
+        "external": true
+      },
+      "https://learning.emofid.com/": {
+        "external": true
+      },
+      "https://se.emofid.com/login.html": {
+        "external": true
+      },
+      "https://marketwatch.emofid.com/topofmarket/": {
+        "external": true
+      },
+      "https://marketwatch.emofid.com/marketview/": {
+        "external": true
+      },
+      "https://learning.emofid.com/questions-archive/": {
+        "external": true
+      },
+      "https://learning.emofid.com/support": {
+        "external": true
+      },
+      "https://instagram.com/mofidsecurities/": {
+        "external": true
+      },
+      "https://www.linkedin.com/company/mofidsecurities/": {
+        "external": true
+      },
+      "https://t.me/MofidSecurities": {
+        "external": true
+      },
+      "https://trustseal.enamad.ir/?id=4571&Code=03c06kvrGauSkHVQAtMexOua1ghJEisj": {
+        "external": true
+      }
+    },
+    "https://www.emofid.com/about/": {
+      "external": false,
+      "https://my.emofid.com": {
+        "external": true
+      },
+      "https://learning.emofid.com/course/": {
+        "external": true
+      },
+      "https://learning.emofid.com/events/": {
+        "external": true
+      },
+      "https://learning.emofid.com/articles/": {
+        "external": true
+      },
+      "http://mfid.ir/edeasy": {
+        "external": true
+      },
+      "https://my.emofid.com/app/auth/login": {
+        "external": true
+      },
+      "https://my.emofid.com/app/auth/register": {
+        "external": true
+      },
+      "https://learning.emofid.com/": {
+        "external": true
+      },
+      "https://learning.emofid.com/support": {
+        "external": true
+      },
+      "https://t.me/MofidSecurities": {
+        "external": true
+      },
+      "https://my.emofid.com/": {
+        "external": true
+      },
+      "https://online.emofid.com/": {
+        "external": true
+      },
+      "https://pellekan.emofid.com/": {
+        "external": true
+      },
+      "http://www.bourseview.com/": {
+        "external": true
+      },
+      "https://se.emofid.com/login.html": {
+        "external": true
+      },
+      "https://marketwatch.emofid.com/topofmarket/": {
+        "external": true
+      },
+      "https://marketwatch.emofid.com/marketview/": {
+        "external": true
+      },
+      "https://learning.emofid.com/questions-archive/": {
+        "external": true
+      },
+      "https://instagram.com/mofidsecurities/": {
+        "external": true
+      },
+      "https://www.linkedin.com/company/mofidsecurities/": {
+        "external": true
+      },
+      "https://trustseal.enamad.ir/?id=4571&Code=03c06kvrGauSkHVQAtMexOua1ghJEisj": {
+        "external": true
+      }
+    },
+    "https://www.emofid.com/hami/": {
+      "external": false,
+      "https://my.emofid.com": {
+        "external": true
+      },
+      "https://learning.emofid.com/course/": {
+        "external": true
+      },
+      "https://learning.emofid.com/events/": {
+        "external": true
+      },
+      "https://learning.emofid.com/articles/": {
+        "external": true
+      },
+      "http://mfid.ir/edeasy": {
+        "external": true
+      },
+      "https://my.emofid.com/app/auth/login": {
+        "external": true
+      },
+      "https://my.emofid.com/app/auth/register": {
+        "external": true
+      },
+      "https://account.emofid.com/connect/signup?client_id=RegWebApp&redirect_uri=https://reg.emofid.com/": {
+        "external": true
+      },
+      "https://hamifund.com/": {
+        "external": true
+      },
+      "https://my.emofid.com/": {
+        "external": true
+      },
+      "https://online.emofid.com/": {
+        "external": true
+      },
+      "https://pellekan.emofid.com/": {
+        "external": true
+      },
+      "http://www.bourseview.com/": {
+        "external": true
+      },
+      "https://learning.emofid.com/": {
+        "external": true
+      },
+      "https://se.emofid.com/login.html": {
+        "external": true
+      },
+      "https://marketwatch.emofid.com/topofmarket/": {
+        "external": true
+      },
+      "https://marketwatch.emofid.com/marketview/": {
+        "external": true
+      },
+      "https://learning.emofid.com/questions-archive/": {
+        "external": true
+      },
+      "https://learning.emofid.com/support": {
+        "external": true
+      },
+      "https://instagram.com/mofidsecurities/": {
+        "external": true
+      },
+      "https://www.linkedin.com/company/mofidsecurities/": {
+        "external": true
+      },
+      "https://t.me/MofidSecurities": {
+        "external": true
+      },
+      "https://trustseal.enamad.ir/?id=4571&Code=03c06kvrGauSkHVQAtMexOua1ghJEisj": {
+        "external": true
+      }
+    },
+    "https://www.emofid.com/ati/": {
+      "external": false,
+      "https://my.emofid.com": {
+        "external": true
+      },
+      "https://learning.emofid.com/course/": {
+        "external": true
+      },
+      "https://learning.emofid.com/events/": {
+        "external": true
+      },
+      "https://learning.emofid.com/articles/": {
+        "external": true
+      },
+      "http://mfid.ir/edeasy": {
+        "external": true
+      },
+      "https://my.emofid.com/app/auth/login": {
+        "external": true
+      },
+      "https://my.emofid.com/app/auth/register": {
+        "external": true
+      },
+      "https://mofid.ebgo.ir": {
+        "external": true
+      },
+      "https://learning.emofid.com/futures-trading-code/": {
+        "external": true
+      },
+      "https://learning.emofid.com/%D9%82%D8%B1%D8%A7%D8%B1%D8%AF%D8%A7%D8%AF-%D8%A2%D8%AA%DB%8C-%D8%B2%D8%B9%D9%81%D8%B1%D8%A7%D9%86/": {
+        "external": true
+      },
+      "https://learning.emofid.com/lotus-gold-fund-futures/": {
+        "external": true
+      },
+      "https://learning.emofid.com/silver-futures/": {
+        "external": true
+      },
+      "https://learning.emofid.com/video/silver-future-contract/": {
+        "external": true
+      },
+      "https://my.emofid.com/": {
+        "external": true
+      },
+      "https://online.emofid.com/": {
+        "external": true
+      },
+      "https://pellekan.emofid.com/": {
+        "external": true
+      },
+      "http://www.bourseview.com/": {
+        "external": true
+      },
+      "https://learning.emofid.com/": {
+        "external": true
+      },
+      "https://se.emofid.com/login.html": {
+        "external": true
+      },
+      "https://marketwatch.emofid.com/topofmarket/": {
+        "external": true
+      },
+      "https://marketwatch.emofid.com/marketview/": {
+        "external": true
+      },
+      "https://learning.emofid.com/questions-archive/": {
+        "external": true
+      },
+      "https://learning.emofid.com/support": {
+        "external": true
+      },
+      "https://instagram.com/mofidsecurities/": {
+        "external": true
+      },
+      "https://www.linkedin.com/company/mofidsecurities/": {
+        "external": true
+      },
+      "https://t.me/MofidSecurities": {
+        "external": true
+      },
+      "https://trustseal.enamad.ir/?id=4571&Code=03c06kvrGauSkHVQAtMexOua1ghJEisj": {
+        "external": true
+      }
+    },
+    "https://www.emofid.com/bourse-view/": {
+      "external": false,
+      "https://my.emofid.com": {
+        "external": true
+      },
+      "https://learning.emofid.com/course/": {
+        "external": true
+      },
+      "https://learning.emofid.com/events/": {
+        "external": true
+      },
+      "https://learning.emofid.com/articles/": {
+        "external": true
+      },
+      "http://mfid.ir/edeasy": {
+        "external": true
+      },
+      "https://my.emofid.com/app/auth/login": {
+        "external": true
+      },
+      "https://my.emofid.com/app/auth/register": {
+        "external": true
+      },
+      "https://www.bourseview.com/home/#/account/login": {
+        "external": true
+      },
+      "https://account.emofid.com/connect/signup?client_id=RegWebApp&redirect_uri=https://reg.emofid.com/": {
+        "external": true
+      },
+      "https://learning.emofid.com/": {
+        "external": true
+      },
+      "https://pellekan.emofid.com/": {
+        "external": true
+      },
+      "https://my.emofid.com/": {
+        "external": true
+      },
+      "https://online.emofid.com/": {
+        "external": true
+      },
+      "http://www.bourseview.com/": {
+        "external": true
+      },
+      "https://se.emofid.com/login.html": {
+        "external": true
+      },
+      "https://marketwatch.emofid.com/topofmarket/": {
+        "external": true
+      },
+      "https://marketwatch.emofid.com/marketview/": {
+        "external": true
+      },
+      "https://learning.emofid.com/questions-archive/": {
+        "external": true
+      },
+      "https://learning.emofid.com/support": {
+        "external": true
+      },
+      "https://instagram.com/mofidsecurities/": {
+        "external": true
+      },
+      "https://www.linkedin.com/company/mofidsecurities/": {
+        "external": true
+      },
+      "https://t.me/MofidSecurities": {
+        "external": true
+      },
+      "https://trustseal.enamad.ir/?id=4571&Code=03c06kvrGauSkHVQAtMexOua1ghJEisj": {
+        "external": true
+      }
+    },
+    "https://www.emofid.com/sitemap/": {
+      "external": false,
+      "https://my.emofid.com": {
+        "external": true
+      },
+      "https://learning.emofid.com/course/": {
+        "external": true
+      },
+      "https://learning.emofid.com/events/": {
+        "external": true
+      },
+      "https://learning.emofid.com/articles/": {
+        "external": true
+      },
+      "http://mfid.ir/edeasy": {
+        "external": true
+      },
+      "https://my.emofid.com/app/auth/login": {
+        "external": true
+      },
+      "https://my.emofid.com/app/auth/register": {
+        "external": true
+      },
+      "https://learning.emofid.com/support": {
+        "external": true
+      },
+      "https://learning.emofid.com/questions-archive/": {
+        "external": true
+      },
+      "https://mofidentekhab.com/": {
+        "external": true
+      },
+      "https://mofididea.com/": {
+        "external": true
+      },
+      "https://learning.emofid.com/": {
+        "external": true
+      },
+      "https://learning.emofid.com/live/": {
+        "external": true
+      },
+      "https://d.easytrader.ir/": {
+        "external": true
+      },
+      "https://online.emofid.com/": {
+        "external": true
+      },
+      "https://my.emofid.com/": {
+        "external": true
+      },
+      "http://www.bourseview.com/": {
+        "external": true
+      },
+      "https://bv.emofid.com/market": {
+        "external": true
+      },
+      "https://marketwatch.emofid.com/marketview/": {
+        "external": true
+      },
+      "https://bv.emofid.com/news/category": {
+        "external": true
+      },
+      "https://se.emofid.com/login.html": {
+        "external": true
+      },
+      "https://learning.emofid.com/daroono-fund/": {
+        "external": true
+      },
+      "https://my.emofid.com/invest/fund/IRT1SIMF0001": {
+        "external": true
+      },
+      "https://my.emofid.com/invest/fund/IRT1OCTA0001": {
+        "external": true
+      },
+      "https://pellekan.emofid.com/": {
+        "external": true
+      },
+      "https://marketwatch.emofid.com/topofmarket/": {
+        "external": true
+      },
+      "https://instagram.com/mofidsecurities/": {
+        "external": true
+      },
+      "https://www.linkedin.com/company/mofidsecurities/": {
+        "external": true
+      },
+      "https://t.me/MofidSecurities": {
+        "external": true
+      },
+      "https://trustseal.enamad.ir/?id=4571&Code=03c06kvrGauSkHVQAtMexOua1ghJEisj": {
+        "external": true
+      }
+    },
+    "https://www.emofid.com/legal/": {
+      "external": false,
+      "https://my.emofid.com": {
+        "external": true
+      },
+      "https://learning.emofid.com/course/": {
+        "external": true
+      },
+      "https://learning.emofid.com/events/": {
+        "external": true
+      },
+      "https://learning.emofid.com/articles/": {
+        "external": true
+      },
+      "http://mfid.ir/edeasy": {
+        "external": true
+      },
+      "https://my.emofid.com/app/auth/login": {
+        "external": true
+      },
+      "https://my.emofid.com/app/auth/register": {
+        "external": true
+      },
+      "https://fiu.gov.ir/": {
+        "external": true
+      },
+      "https://my.emofid.com/": {
+        "external": true
+      },
+      "https://online.emofid.com/": {
+        "external": true
+      },
+      "https://pellekan.emofid.com/": {
+        "external": true
+      },
+      "http://www.bourseview.com/": {
+        "external": true
+      },
+      "https://learning.emofid.com/": {
+        "external": true
+      },
+      "https://se.emofid.com/login.html": {
+        "external": true
+      },
+      "https://marketwatch.emofid.com/topofmarket/": {
+        "external": true
+      },
+      "https://marketwatch.emofid.com/marketview/": {
+        "external": true
+      },
+      "https://learning.emofid.com/questions-archive/": {
+        "external": true
+      },
+      "https://learning.emofid.com/support": {
+        "external": true
+      },
+      "https://instagram.com/mofidsecurities/": {
+        "external": true
+      },
+      "https://www.linkedin.com/company/mofidsecurities/": {
+        "external": true
+      },
+      "https://t.me/MofidSecurities": {
+        "external": true
+      },
+      "https://trustseal.enamad.ir/?id=4571&Code=03c06kvrGauSkHVQAtMexOua1ghJEisj": {
+        "external": true
+      }
+    },
+    "https://www.emofid.com/suggestions/": {
+      "external": false,
+      "https://my.emofid.com": {
+        "external": true
+      },
+      "https://learning.emofid.com/course/": {
+        "external": true
+      },
+      "https://learning.emofid.com/events/": {
+        "external": true
+      },
+      "https://learning.emofid.com/articles/": {
+        "external": true
+      },
+      "http://mfid.ir/edeasy": {
+        "external": true
+      },
+      "https://my.emofid.com/app/auth/login": {
+        "external": true
+      },
+      "https://my.emofid.com/app/auth/register": {
+        "external": true
+      },
+      "https://my.emofid.com/": {
+        "external": true
+      },
+      "https://online.emofid.com/": {
+        "external": true
+      },
+      "https://pellekan.emofid.com/": {
+        "external": true
+      },
+      "http://www.bourseview.com/": {
+        "external": true
+      },
+      "https://learning.emofid.com/": {
+        "external": true
+      },
+      "https://se.emofid.com/login.html": {
+        "external": true
+      },
+      "https://marketwatch.emofid.com/topofmarket/": {
+        "external": true
+      },
+      "https://marketwatch.emofid.com/marketview/": {
+        "external": true
+      },
+      "https://learning.emofid.com/questions-archive/": {
+        "external": true
+      },
+      "https://learning.emofid.com/support": {
+        "external": true
+      },
+      "https://instagram.com/mofidsecurities/": {
+        "external": true
+      },
+      "https://www.linkedin.com/company/mofidsecurities/": {
+        "external": true
+      },
+      "https://t.me/MofidSecurities": {
+        "external": true
+      },
+      "https://trustseal.enamad.ir/?id=4571&Code=03c06kvrGauSkHVQAtMexOua1ghJEisj": {
+        "external": true
+      }
+    },
+    "https://www.emofid.com/mifidbook/": {
+      "external": false,
+      "https://my.emofid.com": {
+        "external": true
+      },
+      "https://learning.emofid.com/course/": {
+        "external": true
+      },
+      "https://learning.emofid.com/events/": {
+        "external": true
+      },
+      "https://learning.emofid.com/articles/": {
+        "external": true
+      },
+      "http://mfid.ir/edeasy": {
+        "external": true
+      },
+      "https://my.emofid.com/app/auth/login": {
+        "external": true
+      },
+      "https://my.emofid.com/app/auth/register": {
+        "external": true
+      },
+      "https://my.emofid.com/": {
+        "external": true
+      },
+      "https://online.emofid.com/": {
+        "external": true
+      },
+      "https://pellekan.emofid.com/": {
+        "external": true
+      },
+      "http://www.bourseview.com/": {
+        "external": true
+      },
+      "https://learning.emofid.com/": {
+        "external": true
+      },
+      "https://se.emofid.com/login.html": {
+        "external": true
+      },
+      "https://marketwatch.emofid.com/topofmarket/": {
+        "external": true
+      },
+      "https://marketwatch.emofid.com/marketview/": {
+        "external": true
+      },
+      "https://learning.emofid.com/questions-archive/": {
+        "external": true
+      },
+      "https://learning.emofid.com/support": {
+        "external": true
+      },
+      "https://instagram.com/mofidsecurities/": {
+        "external": true
+      },
+      "https://www.linkedin.com/company/mofidsecurities/": {
+        "external": true
+      },
+      "https://t.me/MofidSecurities": {
+        "external": true
+      },
+      "https://trustseal.enamad.ir/?id=4571&Code=03c06kvrGauSkHVQAtMexOua1ghJEisj": {
+        "external": true
+      }
+    },
+    "https://www.emofid.com/contact/": {
+      "external": false,
+      "https://my.emofid.com": {
+        "external": true
+      },
+      "https://learning.emofid.com/course/": {
+        "external": true
+      },
+      "https://learning.emofid.com/events/": {
+        "external": true
+      },
+      "https://learning.emofid.com/articles/": {
+        "external": true
+      },
+      "http://mfid.ir/edeasy": {
+        "external": true
+      },
+      "https://my.emofid.com/app/auth/login": {
+        "external": true
+      },
+      "https://my.emofid.com/app/auth/register": {
+        "external": true
+      },
+      "https://learning.emofid.com/questions-archive/": {
+        "external": true
+      },
+      "https://legacy.emofid.com/branches": {
+        "external": true
+      },
+      "https://instagram.com/mofidsecurities": {
+        "external": true
+      },
+      "https://t.me/mofidsecurities": {
+        "external": true
+      },
+      "https://www.linkedin.com/company/mofidsecurities": {
+        "external": true
+      },
+      "https://www.google.com/maps/d/u/0/viewer?mid=1945k0l-vy1B9nxj5pNlphi22TwZMhRCV&ll=32.75960540695145%2C53.551143599999946&z=6": {
+        "external": true
+      },
+      "https://my.emofid.com/": {
+        "external": true
+      },
+      "https://online.emofid.com/": {
+        "external": true
+      },
+      "https://pellekan.emofid.com/": {
+        "external": true
+      },
+      "http://www.bourseview.com/": {
+        "external": true
+      },
+      "https://learning.emofid.com/": {
+        "external": true
+      },
+      "https://se.emofid.com/login.html": {
+        "external": true
+      },
+      "https://marketwatch.emofid.com/topofmarket/": {
+        "external": true
+      },
+      "https://marketwatch.emofid.com/marketview/": {
+        "external": true
+      },
+      "https://learning.emofid.com/support": {
+        "external": true
+      },
+      "https://instagram.com/mofidsecurities/": {
+        "external": true
+      },
+      "https://www.linkedin.com/company/mofidsecurities/": {
+        "external": true
+      },
+      "https://t.me/MofidSecurities": {
+        "external": true
+      },
+      "https://trustseal.enamad.ir/?id=4571&Code=03c06kvrGauSkHVQAtMexOua1ghJEisj": {
+        "external": true
+      }
+    },
+    "https://www.emofid.com/sector-fund/": {
+      "external": false,
+      "https://my.emofid.com": {
+        "external": true
+      },
+      "https://learning.emofid.com/course/": {
+        "external": true
+      },
+      "https://learning.emofid.com/events/": {
+        "external": true
+      },
+      "https://learning.emofid.com/articles/": {
+        "external": true
+      },
+      "http://mfid.ir/edeasy": {
+        "external": true
+      },
+      "https://my.emofid.com/app/auth/login": {
+        "external": true
+      },
+      "https://my.emofid.com/app/auth/register": {
+        "external": true
+      },
+      "https://learning.emofid.com/sector-fund/": {
+        "external": true
+      },
+      "https://my.emofid.com/": {
+        "external": true
+      },
+      "https://online.emofid.com/": {
+        "external": true
+      },
+      "https://pellekan.emofid.com/": {
+        "external": true
+      },
+      "http://www.bourseview.com/": {
+        "external": true
+      },
+      "https://learning.emofid.com/": {
+        "external": true
+      },
+      "https://se.emofid.com/login.html": {
+        "external": true
+      },
+      "https://marketwatch.emofid.com/topofmarket/": {
+        "external": true
+      },
+      "https://marketwatch.emofid.com/marketview/": {
+        "external": true
+      },
+      "https://learning.emofid.com/questions-archive/": {
+        "external": true
+      },
+      "https://learning.emofid.com/support": {
+        "external": true
+      },
+      "https://instagram.com/mofidsecurities/": {
+        "external": true
+      },
+      "https://www.linkedin.com/company/mofidsecurities/": {
+        "external": true
+      },
+      "https://t.me/MofidSecurities": {
+        "external": true
+      },
+      "https://trustseal.enamad.ir/?id=4571&Code=03c06kvrGauSkHVQAtMexOua1ghJEisj": {
+        "external": true
+      }
+    },
+    "https://www.emofid.com/atie-fund/": {
+      "external": false,
+      "https://my.emofid.com": {
+        "external": true
+      },
+      "https://learning.emofid.com/course/": {
+        "external": true
+      },
+      "https://learning.emofid.com/events/": {
+        "external": true
+      },
+      "https://learning.emofid.com/articles/": {
+        "external": true
+      },
+      "http://mfid.ir/edeasy": {
+        "external": true
+      },
+      "https://my.emofid.com/app/auth/login": {
+        "external": true
+      },
+      "https://my.emofid.com/app/auth/register": {
+        "external": true
+      },
+      "http://mfid.ir/eaEZd": {
+        "external": true
+      },
+      "http://mfid.ir/eaMA": {
+        "external": true
+      },
+      "https://my.emofid.com/": {
+        "external": true
+      },
+      "https://online.emofid.com/": {
+        "external": true
+      },
+      "https://pellekan.emofid.com/": {
+        "external": true
+      },
+      "http://www.bourseview.com/": {
+        "external": true
+      },
+      "https://learning.emofid.com/": {
+        "external": true
+      },
+      "https://se.emofid.com/login.html": {
+        "external": true
+      },
+      "https://marketwatch.emofid.com/topofmarket/": {
+        "external": true
+      },
+      "https://marketwatch.emofid.com/marketview/": {
+        "external": true
+      },
+      "https://learning.emofid.com/questions-archive/": {
+        "external": true
+      },
+      "https://learning.emofid.com/support": {
+        "external": true
+      },
+      "https://instagram.com/mofidsecurities/": {
+        "external": true
+      },
+      "https://www.linkedin.com/company/mofidsecurities/": {
+        "external": true
+      },
+      "https://t.me/MofidSecurities": {
+        "external": true
+      },
+      "https://trustseal.enamad.ir/?id=4571&Code=03c06kvrGauSkHVQAtMexOua1ghJEisj": {
+        "external": true
+      }
+    },
+    "https://www.emofid.com/etf-fund/": {
+      "external": false,
+      "https://my.emofid.com": {
+        "external": true
+      },
+      "https://learning.emofid.com/course/": {
+        "external": true
+      },
+      "https://learning.emofid.com/events/": {
+        "external": true
+      },
+      "https://learning.emofid.com/articles/": {
+        "external": true
+      },
+      "http://mfid.ir/edeasy": {
+        "external": true
+      },
+      "https://my.emofid.com/app/auth/login": {
+        "external": true
+      },
+      "https://my.emofid.com/app/auth/register": {
+        "external": true
+      },
+      "https://my.emofid.com/": {
+        "external": true
+      },
+      "https://online.emofid.com/": {
+        "external": true
+      },
+      "https://pellekan.emofid.com/": {
+        "external": true
+      },
+      "http://www.bourseview.com/": {
+        "external": true
+      },
+      "https://learning.emofid.com/": {
+        "external": true
+      },
+      "https://se.emofid.com/login.html": {
+        "external": true
+      },
+      "https://marketwatch.emofid.com/topofmarket/": {
+        "external": true
+      },
+      "https://marketwatch.emofid.com/marketview/": {
+        "external": true
+      },
+      "https://learning.emofid.com/questions-archive/": {
+        "external": true
+      },
+      "https://learning.emofid.com/support": {
+        "external": true
+      },
+      "https://instagram.com/mofidsecurities/": {
+        "external": true
+      },
+      "https://www.linkedin.com/company/mofidsecurities/": {
+        "external": true
+      },
+      "https://t.me/MofidSecurities": {
+        "external": true
+      },
+      "https://trustseal.enamad.ir/?id=4571&Code=03c06kvrGauSkHVQAtMexOua1ghJEisj": {
+        "external": true
+      }
+    },
+    "https://www.emofid.com/funds/ayar/": {
+      "external": false,
+      "https://my.emofid.com": {
+        "external": true
+      },
+      "https://learning.emofid.com/course/": {
+        "external": true
+      },
+      "https://learning.emofid.com/events/": {
+        "external": true
+      },
+      "https://learning.emofid.com/articles/": {
+        "external": true
+      },
+      "http://mfid.ir/edeasy": {
+        "external": true
+      },
+      "https://my.emofid.com/app/auth/login": {
+        "external": true
+      },
+      "https://my.emofid.com/app/auth/register": {
+        "external": true
+      },
+      "https://my.emofid.com/": {
+        "external": true
+      },
+      "https://online.emofid.com/": {
+        "external": true
+      },
+      "https://pellekan.emofid.com/": {
+        "external": true
+      },
+      "http://www.bourseview.com/": {
+        "external": true
+      },
+      "https://learning.emofid.com/": {
+        "external": true
+      },
+      "https://se.emofid.com/login.html": {
+        "external": true
+      },
+      "https://marketwatch.emofid.com/topofmarket/": {
+        "external": true
+      },
+      "https://marketwatch.emofid.com/marketview/": {
+        "external": true
+      },
+      "https://learning.emofid.com/questions-archive/": {
+        "external": true
+      },
+      "https://learning.emofid.com/support": {
+        "external": true
+      },
+      "https://instagram.com/mofidsecurities/": {
+        "external": true
+      },
+      "https://www.linkedin.com/company/mofidsecurities/": {
+        "external": true
+      },
+      "https://t.me/MofidSecurities": {
+        "external": true
+      },
+      "https://trustseal.enamad.ir/?id=4571&Code=03c06kvrGauSkHVQAtMexOua1ghJEisj": {
+        "external": true
+      }
+    },
+    "https://www.emofid.com/fixed-income-fund/": {
+      "external": false,
+      "https://my.emofid.com": {
+        "external": true
+      },
+      "https://learning.emofid.com/course/": {
+        "external": true
+      },
+      "https://learning.emofid.com/events/": {
+        "external": true
+      },
+      "https://learning.emofid.com/articles/": {
+        "external": true
+      },
+      "http://mfid.ir/edeasy": {
+        "external": true
+      },
+      "https://my.emofid.com/app/auth/login": {
+        "external": true
+      },
+      "https://my.emofid.com/app/auth/register": {
+        "external": true
+      },
+      "https://my.emofid.com/invest/fund/IRT3AVNF0001": {
+        "external": true
+      },
+      "https://my.emofid.com/invest/fund/IRTKMOFD0001": {
+        "external": true
+      },
+      "https://my.emofid.com/": {
+        "external": true
+      },
+      "https://online.emofid.com/": {
+        "external": true
+      },
+      "https://pellekan.emofid.com/": {
+        "external": true
+      },
+      "http://www.bourseview.com/": {
+        "external": true
+      },
+      "https://learning.emofid.com/": {
+        "external": true
+      },
+      "https://se.emofid.com/login.html": {
+        "external": true
+      },
+      "https://marketwatch.emofid.com/topofmarket/": {
+        "external": true
+      },
+      "https://marketwatch.emofid.com/marketview/": {
+        "external": true
+      },
+      "https://learning.emofid.com/questions-archive/": {
+        "external": true
+      },
+      "https://learning.emofid.com/support": {
+        "external": true
+      },
+      "https://instagram.com/mofidsecurities/": {
+        "external": true
+      },
+      "https://www.linkedin.com/company/mofidsecurities/": {
+        "external": true
+      },
+      "https://t.me/MofidSecurities": {
+        "external": true
+      },
+      "https://trustseal.enamad.ir/?id=4571&Code=03c06kvrGauSkHVQAtMexOua1ghJEisj": {
+        "external": true
+      }
+    },
+    "https://www.emofid.com/index-fund/": {
+      "external": false,
+      "https://my.emofid.com": {
+        "external": true
+      },
+      "https://learning.emofid.com/course/": {
+        "external": true
+      },
+      "https://learning.emofid.com/events/": {
+        "external": true
+      },
+      "https://learning.emofid.com/articles/": {
+        "external": true
+      },
+      "http://mfid.ir/edeasy": {
+        "external": true
+      },
+      "https://my.emofid.com/app/auth/login": {
+        "external": true
+      },
+      "https://my.emofid.com/app/auth/register": {
+        "external": true
+      },
+      "https://my.emofid.com/": {
+        "external": true
+      },
+      "https://online.emofid.com/": {
+        "external": true
+      },
+      "https://pellekan.emofid.com/": {
+        "external": true
+      },
+      "http://www.bourseview.com/": {
+        "external": true
+      },
+      "https://learning.emofid.com/": {
+        "external": true
+      },
+      "https://se.emofid.com/login.html": {
+        "external": true
+      },
+      "https://marketwatch.emofid.com/topofmarket/": {
+        "external": true
+      },
+      "https://marketwatch.emofid.com/marketview/": {
+        "external": true
+      },
+      "https://learning.emofid.com/questions-archive/": {
+        "external": true
+      },
+      "https://learning.emofid.com/support": {
+        "external": true
+      },
+      "https://instagram.com/mofidsecurities/": {
+        "external": true
+      },
+      "https://www.linkedin.com/company/mofidsecurities/": {
+        "external": true
+      },
+      "https://t.me/MofidSecurities": {
+        "external": true
+      },
+      "https://trustseal.enamad.ir/?id=4571&Code=03c06kvrGauSkHVQAtMexOua1ghJEisj": {
+        "external": true
+      }
+    },
+    "https://www.emofid.com/stock-fund/": {
+      "external": false,
+      "https://my.emofid.com": {
+        "external": true
+      },
+      "https://learning.emofid.com/course/": {
+        "external": true
+      },
+      "https://learning.emofid.com/events/": {
+        "external": true
+      },
+      "https://learning.emofid.com/articles/": {
+        "external": true
+      },
+      "http://mfid.ir/edeasy": {
+        "external": true
+      },
+      "https://my.emofid.com/app/auth/login": {
+        "external": true
+      },
+      "https://my.emofid.com/app/auth/register": {
+        "external": true
+      },
+      "https://my.emofid.com/": {
+        "external": true
+      },
+      "https://online.emofid.com/": {
+        "external": true
+      },
+      "https://pellekan.emofid.com/": {
+        "external": true
+      },
+      "http://www.bourseview.com/": {
+        "external": true
+      },
+      "https://learning.emofid.com/": {
+        "external": true
+      },
+      "https://se.emofid.com/login.html": {
+        "external": true
+      },
+      "https://marketwatch.emofid.com/topofmarket/": {
+        "external": true
+      },
+      "https://marketwatch.emofid.com/marketview/": {
+        "external": true
+      },
+      "https://learning.emofid.com/questions-archive/": {
+        "external": true
+      },
+      "https://learning.emofid.com/support": {
+        "external": true
+      },
+      "https://instagram.com/mofidsecurities/": {
+        "external": true
+      },
+      "https://www.linkedin.com/company/mofidsecurities/": {
+        "external": true
+      },
+      "https://t.me/MofidSecurities": {
+        "external": true
+      },
+      "https://trustseal.enamad.ir/?id=4571&Code=03c06kvrGauSkHVQAtMexOua1ghJEisj": {
+        "external": true
+      }
+    },
+    "https://www.emofid.com/goldinvestment/": {
+      "external": false,
+      "https://my.emofid.com": {
+        "external": true
+      },
+      "https://learning.emofid.com/course/": {
+        "external": true
+      },
+      "https://learning.emofid.com/events/": {
+        "external": true
+      },
+      "https://learning.emofid.com/articles/": {
+        "external": true
+      },
+      "http://mfid.ir/edeasy": {
+        "external": true
+      },
+      "https://my.emofid.com/app/auth/login": {
+        "external": true
+      },
+      "https://my.emofid.com/app/auth/register": {
+        "external": true
+      },
+      "https://learning.emofid.com/ayar/": {
+        "external": true
+      },
+      "https://my.emofid.com/invest/fund/IRTKMOFD0001": {
+        "external": true
+      },
+      "http://mfid.ir/ayarEZd": {
+        "external": true
+      },
+      "http://mfid.ir/ayarMA": {
+        "external": true
+      },
+      "https://my.emofid.com/": {
+        "external": true
+      },
+      "https://online.emofid.com/": {
+        "external": true
+      },
+      "https://pellekan.emofid.com/": {
+        "external": true
+      },
+      "http://www.bourseview.com/": {
+        "external": true
+      },
+      "https://learning.emofid.com/": {
+        "external": true
+      },
+      "https://se.emofid.com/login.html": {
+        "external": true
+      },
+      "https://marketwatch.emofid.com/topofmarket/": {
+        "external": true
+      },
+      "https://marketwatch.emofid.com/marketview/": {
+        "external": true
+      },
+      "https://learning.emofid.com/questions-archive/": {
+        "external": true
+      },
+      "https://learning.emofid.com/support": {
+        "external": true
+      },
+      "https://instagram.com/mofidsecurities/": {
+        "external": true
+      },
+      "https://www.linkedin.com/company/mofidsecurities/": {
+        "external": true
+      },
+      "https://t.me/MofidSecurities": {
+        "external": true
+      },
+      "https://trustseal.enamad.ir/?id=4571&Code=03c06kvrGauSkHVQAtMexOua1ghJEisj": {
+        "external": true
+      }
+    },
+    "https://www.emofid.com/portfolio-management/": {
+      "external": false,
+      "https://my.emofid.com": {
+        "external": true
+      },
+      "https://learning.emofid.com/course/": {
+        "external": true
+      },
+      "https://learning.emofid.com/events/": {
+        "external": true
+      },
+      "https://learning.emofid.com/articles/": {
+        "external": true
+      },
+      "http://mfid.ir/edeasy": {
+        "external": true
+      },
+      "https://my.emofid.com/app/auth/login": {
+        "external": true
+      },
+      "https://my.emofid.com/app/auth/register": {
+        "external": true
+      },
+      "https://learning.emofid.com/portfolio-management-commission/": {
+        "external": true
+      },
+      "https://my.emofid.com/": {
+        "external": true
+      },
+      "https://online.emofid.com/": {
+        "external": true
+      },
+      "https://pellekan.emofid.com/": {
+        "external": true
+      },
+      "http://www.bourseview.com/": {
+        "external": true
+      },
+      "https://learning.emofid.com/": {
+        "external": true
+      },
+      "https://se.emofid.com/login.html": {
+        "external": true
+      },
+      "https://marketwatch.emofid.com/topofmarket/": {
+        "external": true
+      },
+      "https://marketwatch.emofid.com/marketview/": {
+        "external": true
+      },
+      "https://learning.emofid.com/questions-archive/": {
+        "external": true
+      },
+      "https://learning.emofid.com/support": {
+        "external": true
+      },
+      "https://instagram.com/mofidsecurities/": {
+        "external": true
+      },
+      "https://www.linkedin.com/company/mofidsecurities/": {
+        "external": true
+      },
+      "https://t.me/MofidSecurities": {
+        "external": true
+      },
+      "https://trustseal.enamad.ir/?id=4571&Code=03c06kvrGauSkHVQAtMexOua1ghJEisj": {
+        "external": true
+      }
+    },
+    "https://www.emofid.com/investment/indirect-investment/": {
+      "external": false,
+      "https://my.emofid.com": {
+        "external": true
+      },
+      "https://learning.emofid.com/course/": {
+        "external": true
+      },
+      "https://learning.emofid.com/events/": {
+        "external": true
+      },
+      "https://learning.emofid.com/articles/": {
+        "external": true
+      },
+      "http://mfid.ir/edeasy": {
+        "external": true
+      },
+      "https://my.emofid.com/app/auth/login": {
+        "external": true
+      },
+      "https://my.emofid.com/app/auth/register": {
+        "external": true
+      },
+      "https://learning.emofid.com/event/investment-fund-portfolio-16far/": {
+        "external": true
+      },
+      "https://learning.emofid.com/event/bill-williams-16far/": {
+        "external": true
+      },
+      "https://learning.emofid.com/event/price-target-16far/": {
+        "external": true
+      },
+      "https://my.emofid.com/": {
+        "external": true
+      },
+      "https://online.emofid.com/": {
+        "external": true
+      },
+      "https://pellekan.emofid.com/": {
+        "external": true
+      },
+      "http://www.bourseview.com/": {
+        "external": true
+      },
+      "https://learning.emofid.com/": {
+        "external": true
+      },
+      "https://se.emofid.com/login.html": {
+        "external": true
+      },
+      "https://marketwatch.emofid.com/topofmarket/": {
+        "external": true
+      },
+      "https://marketwatch.emofid.com/marketview/": {
+        "external": true
+      },
+      "https://learning.emofid.com/questions-archive/": {
+        "external": true
+      },
+      "https://learning.emofid.com/support": {
+        "external": true
+      },
+      "https://instagram.com/mofidsecurities/": {
+        "external": true
+      },
+      "https://www.linkedin.com/company/mofidsecurities/": {
+        "external": true
+      },
+      "https://t.me/MofidSecurities": {
+        "external": true
+      },
+      "https://trustseal.enamad.ir/?id=4571&Code=03c06kvrGauSkHVQAtMexOua1ghJEisj": {
+        "external": true
+      }
+    },
+    "https://www.emofid.com/initial-public-offering/": {
+      "external": false,
+      "https://my.emofid.com": {
+        "external": true
+      },
+      "https://learning.emofid.com/course/": {
+        "external": true
+      },
+      "https://learning.emofid.com/events/": {
+        "external": true
+      },
+      "https://learning.emofid.com/articles/": {
+        "external": true
+      },
+      "http://mfid.ir/edeasy": {
+        "external": true
+      },
+      "https://my.emofid.com/app/auth/login": {
+        "external": true
+      },
+      "https://my.emofid.com/app/auth/register": {
+        "external": true
+      },
+      "https://t.me/mofidsecuritiesofficial": {
+        "external": true
+      },
+      "https://my.emofid.com/": {
+        "external": true
+      },
+      "https://online.emofid.com/": {
+        "external": true
+      },
+      "https://pellekan.emofid.com/": {
+        "external": true
+      },
+      "http://www.bourseview.com/": {
+        "external": true
+      },
+      "https://learning.emofid.com/": {
+        "external": true
+      },
+      "https://se.emofid.com/login.html": {
+        "external": true
+      },
+      "https://marketwatch.emofid.com/topofmarket/": {
+        "external": true
+      },
+      "https://marketwatch.emofid.com/marketview/": {
+        "external": true
+      },
+      "https://learning.emofid.com/questions-archive/": {
+        "external": true
+      },
+      "https://learning.emofid.com/support": {
+        "external": true
+      },
+      "https://instagram.com/mofidsecurities/": {
+        "external": true
+      },
+      "https://www.linkedin.com/company/mofidsecurities/": {
+        "external": true
+      },
+      "https://t.me/MofidSecurities": {
+        "external": true
+      },
+      "https://trustseal.enamad.ir/?id=4571&Code=03c06kvrGauSkHVQAtMexOua1ghJEisj": {
+        "external": true
+      }
+    },
+    "https://www.emofid.com/pellekan/": {
+      "external": false,
+      "https://my.emofid.com": {
+        "external": true
+      },
+      "https://learning.emofid.com/course/": {
+        "external": true
+      },
+      "https://learning.emofid.com/events/": {
+        "external": true
+      },
+      "https://learning.emofid.com/articles/": {
+        "external": true
+      },
+      "http://mfid.ir/edeasy": {
+        "external": true
+      },
+      "https://my.emofid.com/app/auth/login": {
+        "external": true
+      },
+      "https://my.emofid.com/app/auth/register": {
+        "external": true
+      },
+      "https://pellekan.emofid.com/": {
+        "external": true
+      },
+      "https://learning.emofid.com/invitation-to-pellekan/": {
+        "external": true
+      },
+      "https://my.emofid.com/": {
+        "external": true
+      },
+      "https://online.emofid.com/": {
+        "external": true
+      },
+      "http://www.bourseview.com/": {
+        "external": true
+      },
+      "https://learning.emofid.com/": {
+        "external": true
+      },
+      "https://se.emofid.com/login.html": {
+        "external": true
+      },
+      "https://marketwatch.emofid.com/topofmarket/": {
+        "external": true
+      },
+      "https://marketwatch.emofid.com/marketview/": {
+        "external": true
+      },
+      "https://learning.emofid.com/questions-archive/": {
+        "external": true
+      },
+      "https://learning.emofid.com/support": {
+        "external": true
+      },
+      "https://instagram.com/mofidsecurities/": {
+        "external": true
+      },
+      "https://www.linkedin.com/company/mofidsecurities/": {
+        "external": true
+      },
+      "https://t.me/MofidSecurities": {
+        "external": true
+      },
+      "https://trustseal.enamad.ir/?id=4571&Code=03c06kvrGauSkHVQAtMexOua1ghJEisj": {
+        "external": true
+      }
+    },
+    "https://www.emofid.com/suggested-portfolio/": {
+      "external": false,
+      "https://my.emofid.com": {
+        "external": true
+      },
+      "https://learning.emofid.com/course/": {
+        "external": true
+      },
+      "https://learning.emofid.com/events/": {
+        "external": true
+      },
+      "https://learning.emofid.com/articles/": {
+        "external": true
+      },
+      "http://mfid.ir/edeasy": {
+        "external": true
+      },
+      "https://my.emofid.com/app/auth/login": {
+        "external": true
+      },
+      "https://my.emofid.com/app/auth/register": {
+        "external": true
+      },
+      "https://pellekan.emofid.com/": {
+        "external": true
+      },
+      "https://my.emofid.com/": {
+        "external": true
+      },
+      "https://online.emofid.com/": {
+        "external": true
+      },
+      "http://www.bourseview.com/": {
+        "external": true
+      },
+      "https://learning.emofid.com/": {
+        "external": true
+      },
+      "https://se.emofid.com/login.html": {
+        "external": true
+      },
+      "https://marketwatch.emofid.com/topofmarket/": {
+        "external": true
+      },
+      "https://marketwatch.emofid.com/marketview/": {
+        "external": true
+      },
+      "https://learning.emofid.com/questions-archive/": {
+        "external": true
+      },
+      "https://learning.emofid.com/support": {
+        "external": true
+      },
+      "https://instagram.com/mofidsecurities/": {
+        "external": true
+      },
+      "https://www.linkedin.com/company/mofidsecurities/": {
+        "external": true
+      },
+      "https://t.me/MofidSecurities": {
+        "external": true
+      },
+      "https://trustseal.enamad.ir/?id=4571&Code=03c06kvrGauSkHVQAtMexOua1ghJEisj": {
+        "external": true
+      }
+    },
+    "https://www.emofid.com/bourse-code/": {
+      "external": false,
+      "https://my.emofid.com": {
+        "external": true
+      },
+      "https://learning.emofid.com/course/": {
+        "external": true
+      },
+      "https://learning.emofid.com/events/": {
+        "external": true
+      },
+      "https://learning.emofid.com/articles/": {
+        "external": true
+      },
+      "http://mfid.ir/edeasy": {
+        "external": true
+      },
+      "https://my.emofid.com/app/auth/login": {
+        "external": true
+      },
+      "https://my.emofid.com/app/auth/register": {
+        "external": true
+      },
+      "https://learning.emofid.com/how-to-register-in-sajam/": {
+        "external": true
+      },
+      "https://learning.emofid.com/ekyc/": {
+        "external": true
+      },
+      "https://learning.emofid.com/": {
+        "external": true
+      },
+      "https://learning.emofid.com/support": {
+        "external": true
+      },
+      "https://my.emofid.com/": {
+        "external": true
+      },
+      "https://online.emofid.com/": {
+        "external": true
+      },
+      "https://pellekan.emofid.com/": {
+        "external": true
+      },
+      "http://www.bourseview.com/": {
+        "external": true
+      },
+      "https://se.emofid.com/login.html": {
+        "external": true
+      },
+      "https://marketwatch.emofid.com/topofmarket/": {
+        "external": true
+      },
+      "https://marketwatch.emofid.com/marketview/": {
+        "external": true
+      },
+      "https://learning.emofid.com/questions-archive/": {
+        "external": true
+      },
+      "https://instagram.com/mofidsecurities/": {
+        "external": true
+      },
+      "https://www.linkedin.com/company/mofidsecurities/": {
+        "external": true
+      },
+      "https://t.me/MofidSecurities": {
+        "external": true
+      },
+      "https://trustseal.enamad.ir/?id=4571&Code=03c06kvrGauSkHVQAtMexOua1ghJEisj": {
+        "external": true
+      }
+    },
+    "https://www.emofid.com/sejam-auth/": {
+      "external": false,
+      "https://my.emofid.com": {
+        "external": true
+      },
+      "https://learning.emofid.com/course/": {
+        "external": true
+      },
+      "https://learning.emofid.com/events/": {
+        "external": true
+      },
+      "https://learning.emofid.com/articles/": {
+        "external": true
+      },
+      "http://mfid.ir/edeasy": {
+        "external": true
+      },
+      "https://my.emofid.com/app/auth/login": {
+        "external": true
+      },
+      "https://my.emofid.com/app/auth/register": {
+        "external": true
+      },
+      "https://profilesejam.csdiran.ir/RecoveryTraceCode": {
+        "external": true
+      },
+      "https://my.emofid.com/": {
+        "external": true
+      },
+      "https://online.emofid.com/": {
+        "external": true
+      },
+      "https://pellekan.emofid.com/": {
+        "external": true
+      },
+      "http://www.bourseview.com/": {
+        "external": true
+      },
+      "https://learning.emofid.com/": {
+        "external": true
+      },
+      "https://se.emofid.com/login.html": {
+        "external": true
+      },
+      "https://marketwatch.emofid.com/topofmarket/": {
+        "external": true
+      },
+      "https://marketwatch.emofid.com/marketview/": {
+        "external": true
+      },
+      "https://learning.emofid.com/questions-archive/": {
+        "external": true
+      },
+      "https://learning.emofid.com/support": {
+        "external": true
+      },
+      "https://instagram.com/mofidsecurities/": {
+        "external": true
+      },
+      "https://www.linkedin.com/company/mofidsecurities/": {
+        "external": true
+      },
+      "https://t.me/MofidSecurities": {
+        "external": true
+      },
+      "https://trustseal.enamad.ir/?id=4571&Code=03c06kvrGauSkHVQAtMexOua1ghJEisj": {
+        "external": true
+      }
+    },
+    "https://www.emofid.com/etebar/": {
+      "external": false,
+      "https://my.emofid.com": {
+        "external": true
+      },
+      "https://learning.emofid.com/course/": {
+        "external": true
+      },
+      "https://learning.emofid.com/events/": {
+        "external": true
+      },
+      "https://learning.emofid.com/articles/": {
+        "external": true
+      },
+      "http://mfid.ir/edeasy": {
+        "external": true
+      },
+      "https://my.emofid.com/app/auth/login": {
+        "external": true
+      },
+      "https://my.emofid.com/app/auth/register": {
+        "external": true
+      },
+      "https://pellekan.emofid.com/": {
+        "external": true
+      },
+      "https://my.emofid.com/": {
+        "external": true
+      },
+      "https://online.emofid.com/": {
+        "external": true
+      },
+      "http://www.bourseview.com/": {
+        "external": true
+      },
+      "https://learning.emofid.com/": {
+        "external": true
+      },
+      "https://se.emofid.com/login.html": {
+        "external": true
+      },
+      "https://marketwatch.emofid.com/topofmarket/": {
+        "external": true
+      },
+      "https://marketwatch.emofid.com/marketview/": {
+        "external": true
+      },
+      "https://learning.emofid.com/questions-archive/": {
+        "external": true
+      },
+      "https://learning.emofid.com/support": {
+        "external": true
+      },
+      "https://instagram.com/mofidsecurities/": {
+        "external": true
+      },
+      "https://www.linkedin.com/company/mofidsecurities/": {
+        "external": true
+      },
+      "https://t.me/MofidSecurities": {
+        "external": true
+      },
+      "https://trustseal.enamad.ir/?id=4571&Code=03c06kvrGauSkHVQAtMexOua1ghJEisj": {
+        "external": true
+      }
+    },
+    "https://www.emofid.com/bourse-view-mobile/": {
+      "external": false,
+      "https://my.emofid.com": {
+        "external": true
+      },
+      "https://learning.emofid.com/course/": {
+        "external": true
+      },
+      "https://learning.emofid.com/events/": {
+        "external": true
+      },
+      "https://learning.emofid.com/articles/": {
+        "external": true
+      },
+      "http://mfid.ir/edeasy": {
+        "external": true
+      },
+      "https://my.emofid.com/app/auth/login": {
+        "external": true
+      },
+      "https://my.emofid.com/app/auth/register": {
+        "external": true
+      },
+      "https://bv.emofid.com": {
+        "external": true
+      },
+      "https://bv.emofid.com/market": {
+        "external": true
+      },
+      "https://cafebazaar.ir/app/com.emofid.bourseview.twa": {
+        "external": true
+      },
+      "https://learning.emofid.com/": {
+        "external": true
+      },
+      "https://bv.emofid.com/news/category": {
+        "external": true
+      },
+      "https://play.google.com/store/apps/details?id=com.emofid.bourseview.twa&hl=fa&gl=US": {
+        "external": true
+      },
+      "https://myket.ir/app/com.emofid.bourseview.twa": {
+        "external": true
+      },
+      "https://bv.emofid.com/": {
+        "external": true
+      },
+      "https://learning.emofid.com/market-research-and-analysis-with-bourseview-mobile-app/": {
+        "external": true
+      },
+      "https://my.emofid.com/": {
+        "external": true
+      },
+      "https://online.emofid.com/": {
+        "external": true
+      },
+      "https://pellekan.emofid.com/": {
+        "external": true
+      },
+      "http://www.bourseview.com/": {
+        "external": true
+      },
+      "https://se.emofid.com/login.html": {
+        "external": true
+      },
+      "https://marketwatch.emofid.com/topofmarket/": {
+        "external": true
+      },
+      "https://marketwatch.emofid.com/marketview/": {
+        "external": true
+      },
+      "https://learning.emofid.com/questions-archive/": {
+        "external": true
+      },
+      "https://learning.emofid.com/support": {
+        "external": true
+      },
+      "https://instagram.com/mofidsecurities/": {
+        "external": true
+      },
+      "https://www.linkedin.com/company/mofidsecurities/": {
+        "external": true
+      },
+      "https://t.me/MofidSecurities": {
+        "external": true
+      },
+      "https://trustseal.enamad.ir/?id=4571&Code=03c06kvrGauSkHVQAtMexOua1ghJEisj": {
+        "external": true
+      }
+    },
+    "https://www.emofid.com/mofidonline/": {
+      "external": false,
+      "https://my.emofid.com": {
+        "external": true
+      },
+      "https://learning.emofid.com/course/": {
+        "external": true
+      },
+      "https://learning.emofid.com/events/": {
+        "external": true
+      },
+      "https://learning.emofid.com/articles/": {
+        "external": true
+      },
+      "http://mfid.ir/edeasy": {
+        "external": true
+      },
+      "https://my.emofid.com/app/auth/login": {
+        "external": true
+      },
+      "https://my.emofid.com/app/auth/register": {
+        "external": true
+      },
+      "https://www.mofidonline.com/": {
+        "external": true
+      },
+      "https://learning.emofid.com/technical-analysis-tools-in-mofidonline/": {
+        "external": true
+      },
+      "https://learning.emofid.com/ipo-offline-mofidonline/": {
+        "external": true
+      },
+      "http://mfid.ir/daJ5": {
+        "external": true
+      },
+      "https://learning.emofid.com/mofidonline-features/": {
+        "external": true
+      },
+      "https://learning.emofid.com/mofid-card-in-mofid-online/": {
+        "external": true
+      },
+      "https://learning.emofid.com/mofid-funds-section-in-mofidonline/": {
+        "external": true
+      },
+      "https://my.emofid.com/": {
+        "external": true
+      },
+      "https://online.emofid.com/": {
+        "external": true
+      },
+      "https://pellekan.emofid.com/": {
+        "external": true
+      },
+      "http://www.bourseview.com/": {
+        "external": true
+      },
+      "https://learning.emofid.com/": {
+        "external": true
+      },
+      "https://se.emofid.com/login.html": {
+        "external": true
+      },
+      "https://marketwatch.emofid.com/topofmarket/": {
+        "external": true
+      },
+      "https://marketwatch.emofid.com/marketview/": {
+        "external": true
+      },
+      "https://learning.emofid.com/questions-archive/": {
+        "external": true
+      },
+      "https://learning.emofid.com/support": {
+        "external": true
+      },
+      "https://instagram.com/mofidsecurities/": {
+        "external": true
+      },
+      "https://www.linkedin.com/company/mofidsecurities/": {
+        "external": true
+      },
+      "https://t.me/MofidSecurities": {
+        "external": true
+      },
+      "https://trustseal.enamad.ir/?id=4571&Code=03c06kvrGauSkHVQAtMexOua1ghJEisj": {
+        "external": true
+      }
+    },
+    "https://www.emofid.com/easytrader/": {
+      "external": false,
+      "https://my.emofid.com": {
+        "external": true
+      },
+      "https://learning.emofid.com/course/": {
+        "external": true
+      },
+      "https://learning.emofid.com/events/": {
+        "external": true
+      },
+      "https://learning.emofid.com/articles/": {
+        "external": true
+      },
+      "http://mfid.ir/edeasy": {
+        "external": true
+      },
+      "https://my.emofid.com/app/auth/login": {
+        "external": true
+      },
+      "https://my.emofid.com/app/auth/register": {
+        "external": true
+      },
+      "https://learning.emofid.com/portfolio-in-easy-trader/?utm_source=emofid&utm_medium=slider&utm_campaign=Emofid_Slider": {
+        "external": true
+      },
+      "https://learning.emofid.com/introducing-the-market-view-in-easy-trader/?utm_source=emofid&utm_medium=slider&utm_campaign=Emofid_Slider": {
+        "external": true
+      },
+      "https://learning.emofid.com/what-is-easy-chart/?utm_source=emofid&utm_medium=slider&utm_campaign=Emofid_Slider": {
+        "external": true
+      },
+      "https://learning.emofid.com/ipo_offline_orbis/?utm_source=emofid&utm_medium=slider&utm_campaign=Emofid_Slider": {
+        "external": true
+      },
+      "https://learning.emofid.com/option-trading-in-easytrader/": {
+        "external": true
+      },
+      "https://landing.emofid.com/mofid-card?utm_source=emofid&utm_medium=slider&utm_campaign=Emofid_Slider": {
+        "external": true
+      },
+      "https://learning.emofid.com/symbol-evaluation-in-orbis/?utm_source=emofid&utm_medium=slider&utm_campaign=Emofid_Slider": {
+        "external": true
+      },
+      "http://mfid.ir/emeasy": {
+        "external": true
+      },
+      "https://learning.emofid.com/easyamooz/?utm_source=emofid&utm_medium=slider&utm_campaign=Emofid_Slider": {
+        "external": true
+      },
+      "https://my.emofid.com/": {
+        "external": true
+      },
+      "https://online.emofid.com/": {
+        "external": true
+      },
+      "https://pellekan.emofid.com/": {
+        "external": true
+      },
+      "http://www.bourseview.com/": {
+        "external": true
+      },
+      "https://learning.emofid.com/": {
+        "external": true
+      },
+      "https://se.emofid.com/login.html": {
+        "external": true
+      },
+      "https://marketwatch.emofid.com/topofmarket/": {
+        "external": true
+      },
+      "https://marketwatch.emofid.com/marketview/": {
+        "external": true
+      },
+      "https://learning.emofid.com/questions-archive/": {
+        "external": true
+      },
+      "https://learning.emofid.com/support": {
+        "external": true
+      },
+      "https://instagram.com/mofidsecurities/": {
+        "external": true
+      },
+      "https://www.linkedin.com/company/mofidsecurities/": {
+        "external": true
+      },
+      "https://t.me/MofidSecurities": {
+        "external": true
+      },
+      "https://trustseal.enamad.ir/?id=4571&Code=03c06kvrGauSkHVQAtMexOua1ghJEisj": {
+        "external": true
+      }
+    },
+    "https://www.emofid.com/trades/": {
+      "external": false,
+      "https://my.emofid.com": {
+        "external": true
+      },
+      "https://learning.emofid.com/course/": {
+        "external": true
+      },
+      "https://learning.emofid.com/events/": {
+        "external": true
+      },
+      "https://learning.emofid.com/articles/": {
+        "external": true
+      },
+      "http://mfid.ir/edeasy": {
+        "external": true
+      },
+      "https://my.emofid.com/app/auth/login": {
+        "external": true
+      },
+      "https://my.emofid.com/app/auth/register": {
+        "external": true
+      },
+      "https://www.mofidonline.com/": {
+        "external": true
+      },
+      "https://learning.emofid.com/event/investment-fund-portfolio-16far/": {
+        "external": true
+      },
+      "https://learning.emofid.com/event/bill-williams-16far/": {
+        "external": true
+      },
+      "https://learning.emofid.com/event/price-target-16far/": {
+        "external": true
+      },
+      "https://my.emofid.com/": {
+        "external": true
+      },
+      "https://online.emofid.com/": {
+        "external": true
+      },
+      "https://pellekan.emofid.com/": {
+        "external": true
+      },
+      "http://www.bourseview.com/": {
+        "external": true
+      },
+      "https://learning.emofid.com/": {
+        "external": true
+      },
+      "https://se.emofid.com/login.html": {
+        "external": true
+      },
+      "https://marketwatch.emofid.com/topofmarket/": {
+        "external": true
+      },
+      "https://marketwatch.emofid.com/marketview/": {
+        "external": true
+      },
+      "https://learning.emofid.com/questions-archive/": {
+        "external": true
+      },
+      "https://learning.emofid.com/support": {
+        "external": true
+      },
+      "https://instagram.com/mofidsecurities/": {
+        "external": true
+      },
+      "https://www.linkedin.com/company/mofidsecurities/": {
+        "external": true
+      },
+      "https://t.me/MofidSecurities": {
+        "external": true
+      },
+      "https://trustseal.enamad.ir/?id=4571&Code=03c06kvrGauSkHVQAtMexOua1ghJEisj": {
+        "external": true
+      }
+    },
+    "https://www.emofid.com/funds/": {
+      "external": false,
+      "https://my.emofid.com": {
+        "external": true
+      },
+      "https://learning.emofid.com/course/": {
+        "external": true
+      },
+      "https://learning.emofid.com/events/": {
+        "external": true
+      },
+      "https://learning.emofid.com/articles/": {
+        "external": true
+      },
+      "http://mfid.ir/edeasy": {
+        "external": true
+      },
+      "https://my.emofid.com/app/auth/login": {
+        "external": true
+      },
+      "https://my.emofid.com/app/auth/register": {
+        "external": true
+      },
+      "https://my.emofid.com/": {
+        "external": true
+      },
+      "https://online.emofid.com/": {
+        "external": true
+      },
+      "https://pellekan.emofid.com/": {
+        "external": true
+      },
+      "http://www.bourseview.com/": {
+        "external": true
+      },
+      "https://learning.emofid.com/": {
+        "external": true
+      },
+      "https://se.emofid.com/login.html": {
+        "external": true
+      },
+      "https://marketwatch.emofid.com/topofmarket/": {
+        "external": true
+      },
+      "https://marketwatch.emofid.com/marketview/": {
+        "external": true
+      },
+      "https://learning.emofid.com/questions-archive/": {
+        "external": true
+      },
+      "https://learning.emofid.com/support": {
+        "external": true
+      },
+      "https://instagram.com/mofidsecurities/": {
+        "external": true
+      },
+      "https://www.linkedin.com/company/mofidsecurities/": {
+        "external": true
+      },
+      "https://t.me/MofidSecurities": {
+        "external": true
+      },
+      "https://trustseal.enamad.ir/?id=4571&Code=03c06kvrGauSkHVQAtMexOua1ghJEisj": {
+        "external": true
+      }
+    },
+    "https://www.emofid.com/investment/": {
+      "external": false,
+      "https://my.emofid.com": {
+        "external": true
+      },
+      "https://learning.emofid.com/course/": {
+        "external": true
+      },
+      "https://learning.emofid.com/events/": {
+        "external": true
+      },
+      "https://learning.emofid.com/articles/": {
+        "external": true
+      },
+      "http://mfid.ir/edeasy": {
+        "external": true
+      },
+      "https://my.emofid.com/app/auth/login": {
+        "external": true
+      },
+      "https://my.emofid.com/app/auth/register": {
+        "external": true
+      },
+      "https://my.emofid.com/": {
+        "external": true
+      },
+      "https://online.emofid.com/": {
+        "external": true
+      },
+      "https://pellekan.emofid.com/": {
+        "external": true
+      },
+      "http://www.bourseview.com/": {
+        "external": true
+      },
+      "https://learning.emofid.com/": {
+        "external": true
+      },
+      "https://se.emofid.com/login.html": {
+        "external": true
+      },
+      "https://marketwatch.emofid.com/topofmarket/": {
+        "external": true
+      },
+      "https://marketwatch.emofid.com/marketview/": {
+        "external": true
+      },
+      "https://learning.emofid.com/questions-archive/": {
+        "external": true
+      },
+      "https://learning.emofid.com/support": {
+        "external": true
+      },
+      "https://instagram.com/mofidsecurities/": {
+        "external": true
+      },
+      "https://www.linkedin.com/company/mofidsecurities/": {
+        "external": true
+      },
+      "https://t.me/MofidSecurities": {
+        "external": true
+      },
+      "https://trustseal.enamad.ir/?id=4571&Code=03c06kvrGauSkHVQAtMexOua1ghJEisj": {
+        "external": true
+      }
+    },
+    "https://www.emofid.com/": {
+      "external": false
+    }
+  }
+}

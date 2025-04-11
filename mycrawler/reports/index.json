@@ -1,0 +1,113 @@
+{
+  "reports": [
+    {
+      "timestamp": "2025-04-11T20:58:48.991361",
+      "domain": "www.emofid.com",
+      "start_url": "https://www.emofid.com/",
+      "report_dir": "reports\\www_emofid_com_20250411_205848",
+      "database": "webcrawler_www_emofid_com_20250411_205848",
+      "total_pages": 82,
+      "internal_links": 83,
+      "external_links": 1983,
+      "total_requests": 183,
+      "total_response_size": 19167066,
+      "max_depth": 3,
+      "duplicate_urls": 4111,
+      "elapsed_time": 0,
+      "status_codes": {
+        "200": 89,
+        "307": 85,
+        "308": 7,
+        "404": 2
+      },
+      "error_pages": [],
+      "spider_exceptions": {}
+    },
+    {
+      "timestamp": "2025-04-11T20:55:14.569667",
+      "domain": "agah.com",
+      "start_url": "https://agah.com/",
+      "report_dir": "reports\\agah_com_20250411_205514",
+      "total_pages": 32,
+      "internal_links": 33,
+      "external_links": 687,
+      "total_requests": 41,
+      "total_response_size": 71520052,
+      "max_depth": 3,
+      "duplicate_urls": 698,
+      "elapsed_time": 0,
+      "status_codes": {
+        "200": 39,
+        "308": 1,
+        "404": 1
+      },
+      "error_pages": [],
+      "spider_exceptions": {}
+    },
+    {
+      "timestamp": "2025-04-11T20:50:01.300528",
+      "domain": "www.emofid.com",
+      "start_url": "https://www.emofid.com/",
+      "report_dir": "reports\\www_emofid_com_20250411_205001",
+      "total_pages": 82,
+      "internal_links": 83,
+      "external_links": 1983,
+      "total_requests": 183,
+      "total_response_size": 19167598,
+      "max_depth": 3,
+      "duplicate_urls": 4111,
+      "elapsed_time": 0,
+      "status_codes": {
+        "200": 89,
+        "307": 85,
+        "308": 7,
+        "404": 2
+      },
+      "error_pages": [],
+      "spider_exceptions": {}
+    },
+    {
+      "timestamp": "2025-04-10T10:19:54.299884",
+      "domain": "www.emofid.com",
+      "start_url": "https://www.emofid.com/",
+      "report_dir": "reports\\www_emofid_com_20250410_101954",
+      "total_pages": 82,
+      "internal_links": 83,
+      "external_links": 1983,
+      "total_requests": 183,
+      "total_response_size": 19169313,
+      "max_depth": 3,
+      "duplicate_urls": 4111,
+      "elapsed_time": 0,
+      "status_codes": {
+        "200": 89,
+        "307": 85,
+        "308": 7,
+        "404": 2
+      },
+      "error_pages": [],
+      "spider_exceptions": {}
+    },
+    {
+      "timestamp": "2025-04-10T10:17:49.276721",
+      "domain": "agah.com",
+      "start_url": "https://agah.com/",
+      "report_dir": "reports\\agah_com_20250410_101749",
+      "total_pages": 32,
+      "internal_links": 33,
+      "external_links": 687,
+      "total_requests": 41,
+      "total_response_size": 71520054,
+      "max_depth": 3,
+      "duplicate_urls": 698,
+      "elapsed_time": 0,
+      "status_codes": {
+        "200": 39,
+        "308": 1,
+        "404": 1
+      },
+      "error_pages": [],
+      "spider_exceptions": {}
+    }
+  ]
+}
