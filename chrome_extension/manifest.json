@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "Web Crawler",
+  "version": "1.0",
+  "description": "A Chrome extension to start web crawling from any page",
+  "permissions": [
+    "activeTab",
+    "tabs"
+  ],
+  "action": {
+    "default_title": "Web Crawler"
+  },
+  "background": {
+    "service_worker": "js/background.js"
+  }
+} 
