@@ -11,6 +11,7 @@ from collections import defaultdict
 import shutil
 from pymongo import MongoClient
 from bson import ObjectId
+import logging
 
 
 class TreeBuilderPipeline:
@@ -81,8 +82,10 @@ class TreeBuilderPipeline:
     def process_item(self, item, spider):
         adapter = ItemAdapter(item)
         url = adapter.get('url')
+        status_raw = adapter.get('status')
+        logging.info(f"Processing item: {url} (Status raw: {status_raw})")
+        
         parent_url = adapter.get('parent_url')
-        status = adapter.get('status')
         external = adapter.get('external')
         
         # Count links
@@ -96,7 +99,7 @@ class TreeBuilderPipeline:
         page_data = {
             'url': url,
             'parent_url': parent_url,
-            'status': status,
+            'status': status_raw,
             'external': external,
             'domain': self.domain,
             'timestamp': datetime.now()
@@ -131,8 +134,15 @@ class TreeBuilderPipeline:
                 })
         
         # Track error pages
-        if status and status >= 400:
-            self.error_pages.append({'url': url, 'status': status})
+        status = None
+        if status_raw is not None:
+            try:
+                status = int(status_raw)
+                if status >= 400:
+                    self.error_pages.append({'url': url, 'status': status})
+                    logging.info(f"Added error page: {url} (Status: {status})")
+            except (ValueError, TypeError):
+                logging.warning(f"Could not convert status '{status_raw}' to int for URL: {url}")
             
         return item
                 
@@ -196,25 +206,94 @@ class TreeBuilderPipeline:
             # Write HTTP status codes
             f.write(f"HTTP Status Codes:\n")
             f.write(f"-----------------\n")
-            for key, value in self.stats.items():
-                if key.startswith('downloader/response_status_count/'):
-                    status_code = key.split('/')[-1]
-                    f.write(f"Status {status_code}: {value} pages\n")
+            status_codes = {k.split('/')[-1]: v for k, v in self.stats.items() if k.startswith('downloader/response_status_count/')}
+            # جدا کردن کدهای 200 و سایر کدها
+            redirect_codes = [301, 302, 307, 308]
+            error_codes = [404, 500, 403, 429]
+            # حذف حلقه نادرست که باعث خطا می شود:
+            # for item in spider.crawler.stats.get('item_scraped_count', 0): 
+            #     pass 
+
+            # راه حل جایگزین: استفاده از self.error_pages و اضافه کردن یک لیست جدید برای ریدایرکت‌ها در process_item
+            # **نیاز به تغییر در process_item برای اضافه کردن به self.redirect_pages**
+
+            for code, count in sorted(status_codes.items()):
+                 f.write(f"Status {code}: {count} pages\n")
+                 # اینجا باید URL ها را از لیست مربوطه بخوانیم
             f.write("\n")
             
-            # Write error pages
-            if self.error_pages:
-                f.write(f"Error Pages:\n")
-                f.write(f"------------\n")
-                for page in self.error_pages:
+            # Write Redirect Pages (3xx)
+            redirect_details = defaultdict(list)
+            # **فرض می‌کنیم self.redirect_pages در process_item پر شده**
+            # for page in self.redirect_pages:
+            #     if page['status'] in redirect_codes:
+            #         redirect_details[page['status']].append(page['url'])
+            # **این کد بالا نیاز به پیاده‌سازی self.redirect_pages دارد**
+            
+            # **راه حل موقت: نمایش فقط تعداد از آمار**
+            redirect_codes_found = {k: v for k, v in status_codes.items() if int(k) in redirect_codes}
+            if redirect_codes_found:
+                f.write(f"Redirect Pages (Count Only):\n")
+                f.write(f"---------------------------\n")
+                for code, count in sorted(redirect_codes_found.items()):
+                     f.write(f"  Status {code}: {count} pages\n")
+                f.write("\n")
+
+            # Write specific error pages (4xx/5xx)
+            specific_errors = [404, 500, 403, 429]
+            error_details = defaultdict(list)
+            for page in self.error_pages:
+                if page['status'] in specific_errors:
+                    error_details[page['status']].append(page['url'])
+            
+            if error_details:
+                f.write(f"Specific Error Pages:\n")
+                f.write(f"---------------------\n")
+                for code in specific_errors:
+                    if code in error_details:
+                        f.write(f"  Status {code}:\n")
+                        for url in error_details[code]:
+                            f.write(f"    - {url}\n")
+                f.write("\n")
+
+            # Write Redirect Information
+            redirect_maxdepth = self.stats.get('redirect/maxdepth', 0)
+            redirect_loops = self.stats.get('redirect/loops', 0) # Note: Scrapy might not always provide this key directly
+            redirect_reasons = {k.split('/')[-1]: v for k, v in self.stats.items() if k.startswith('redirect/reason_count/')}
+            
+            if redirect_maxdepth > 0 or redirect_loops > 0 or redirect_reasons:
+                f.write(f"Redirect Issues:\n")
+                f.write(f"----------------\n")
+                if redirect_maxdepth > 0:
+                    f.write(f"Redirects stopped due to max depth: {redirect_maxdepth}\n")
+                if redirect_loops > 0:
+                     f.write(f"Detected redirect loops: {redirect_loops}\n") # Add this line
+                if redirect_reasons:
+                    f.write("Redirect stop reasons:\n")
+                    for reason, count in redirect_reasons.items():
+                        f.write(f"  - {reason}: {count}\n")
+                f.write("\n")
+            
+            # Write other error pages (>= 400 but not in specific_errors)
+            other_errors = []
+            for page in self.error_pages:
+                if page['status'] not in specific_errors:
+                     other_errors.append(page)
+                     
+            if other_errors:
+                f.write(f"Other Error Pages (Status >= 400):\n")
+                f.write(f"----------------------------------\n")
+                for page in other_errors:
                     f.write(f"  - {page['url']} (Status: {page['status']})\n")
                 f.write("\n")
             
             # Write spider exceptions
-            if 'spider_exceptions' in self.stats:
+            spider_exceptions = self.stats.get('spider_exceptions', {})
+            if spider_exceptions:
                 f.write(f"Spider Exceptions:\n")
                 f.write(f"-----------------\n")
-                for exc_type, count in self.stats['spider_exceptions'].items():
+                # Use ItemAdapter to handle potential non-dict exceptions if needed
+                for exc_type, count in spider_exceptions.items():
                     f.write(f"  - {exc_type}: {count} occurrences\n")
                 f.write("\n")
             

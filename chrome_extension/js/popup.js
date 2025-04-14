@@ -11,7 +11,9 @@ document.addEventListener('DOMContentLoaded', function() {
   // تابع برای به‌روزرسانی لیست گزارش‌ها
   async function updateReportList() {
     try {
-      const response = await fetch('http://localhost:8000/reports/index.json');
+      // اضافه کردن پارامتر زمان برای جلوگیری از کش شدن
+      const timestamp = Date.now();
+      const response = await fetch(`http://localhost:8000/reports/index.json?t=${timestamp}`);
       if (response.ok) {
         const data = await response.json();
         totalReportsSpan.textContent = data.reports.length;
@@ -63,24 +65,66 @@ document.addEventListener('DOMContentLoaded', function() {
 
   // تابع برای نمایش اطلاعات یک گزارش
   function displayReport(report) {
-    let reportText = `گزارش کراولینگ:\n\n`;
-    reportText += `دامنه: ${report.domain}\n`;
-    reportText += `تعداد صفحات: ${report.total_pages}\n`;
-    reportText += `لینک‌های داخلی: ${report.internal_links}\n`;
-    reportText += `لینک‌های خارجی: ${report.external_links}\n`;
-    reportText += `حداکثر عمق: ${report.max_depth}\n`;
-    reportText += `زمان اجرا: ${report.elapsed_time} ثانیه\n\n`;
-    
-    reportText += `کدهای وضعیت:\n`;
-    for (const [code, count] of Object.entries(report.status_codes)) {
-      reportText += `  ${code}: ${count} صفحه\n`;
+    // تابع کمکی برای فرمت کردن بایت‌ها
+    function formatBytes(bytes, decimals = 2) {
+        if (bytes === 0) return '0 Bytes';
+        const k = 1024;
+        const dm = decimals < 0 ? 0 : decimals;
+        const sizes = ['Bytes', 'KB', 'MB', 'GB', 'TB', 'PB', 'EB', 'ZB', 'YB'];
+        const i = Math.floor(Math.log(bytes) / Math.log(k));
+        return parseFloat((bytes / Math.pow(k, i)).toFixed(dm)) + ' ' + sizes[i];
     }
+
+    let reportText = `گزارش کراولینگ:\n`;
+    reportText += `=================\n\n`;
+    reportText += `دامنه: ${report.domain}\n`;
+    reportText += `آدرس شروع: ${report.start_url}\n`; 
+    reportText += `زمان گزارش: ${new Date(report.timestamp).toLocaleString('fa-IR')}\n\n`; 
     
-    if (report.error_pages.length > 0) {
-      reportText += `\nصفحات خطا:\n`;
+    reportText += `آمار صفحات:\n`;
+    reportText += `------------\n`;
+    reportText += `صفحات بازدید شده (داخلی): ${report.total_pages}\n`;
+    reportText += `لینک‌های داخلی یافت شده: ${report.internal_links}\n`;
+    reportText += `لینک‌های خارجی یافت شده: ${report.external_links}\n\n`;
+    
+    reportText += `آمار کلی کراولینگ:\n`;
+    reportText += `-------------------\n`;
+    reportText += `تعداد کل درخواست‌ها: ${report.total_requests}\n`;
+    reportText += `حجم کل پاسخ‌ها: ${formatBytes(report.total_response_size)}\n`;
+    reportText += `حداکثر عمق پیمایش: ${report.max_depth}\n`;
+    reportText += `تعداد URLهای تکراری فیلتر شده: ${report.duplicate_urls}\n`;
+    reportText += `زمان کل اجرا: ${report.elapsed_time.toFixed(2)} ثانیه\n\n`;
+    
+    reportText += `کدهای وضعیت HTTP:\n`;
+    reportText += `------------------\n`;
+    if (Object.keys(report.status_codes).length > 0) {
+        for (const [code, count] of Object.entries(report.status_codes)) {
+            reportText += `  - وضعیت ${code}: ${count} صفحه\n`;
+        }
+    } else {
+        reportText += `  (موردی یافت نشد)\n`;
+    }
+    reportText += `\n`;
+    
+    reportText += `صفحات دارای خطا (>=400):\n`;
+    reportText += `-------------------------\n`;
+    if (report.error_pages && report.error_pages.length > 0) {
       report.error_pages.forEach(page => {
         reportText += `  - ${page.url} (کد: ${page.status})\n`;
       });
+    } else {
+        reportText += `  (موردی یافت نشد)\n`;
+    }
+    reportText += `\n`;
+
+    reportText += `استثناهای اسپایدر:\n`;
+    reportText += `------------------\n`;
+    if (report.spider_exceptions && Object.keys(report.spider_exceptions).length > 0) {
+        for (const [exc_type, count] of Object.entries(report.spider_exceptions)) {
+            reportText += `  - ${exc_type}: ${count} مورد\n`;
+        }
+    } else {
+        reportText += `  (موردی یافت نشد)\n`;
     }
     
     reportDiv.textContent = reportText;

@@ -1,6 +1,27 @@
 {
   "reports": [
     {
+      "timestamp": "2025-04-14T20:06:22.911039",
+      "domain": "www.emofid.com",
+      "start_url": "https://www.emofid.com/",
+      "report_dir": "reports\\www_emofid_com_20250414_200622",
+      "database": "webcrawler_www_emofid_com_20250414_200622",
+      "total_pages": 46,
+      "internal_links": 46,
+      "external_links": 44,
+      "total_requests": 46,
+      "total_response_size": 148443,
+      "max_depth": 1,
+      "duplicate_urls": 30,
+      "elapsed_time": 0,
+      "status_codes": {
+        "200": 1,
+        "307": 45
+      },
+      "error_pages": [],
+      "spider_exceptions": {}
+    },
+    {
       "timestamp": "2025-04-12T20:53:43.057812",
       "domain": "khosravani.com",
       "start_url": "https://khosravani.com/",
