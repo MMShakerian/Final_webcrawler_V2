@@ -1,0 +1,86 @@
+Web Crawler Report
+=================
+
+Timestamp: 2025-04-14T17:48:40.609874
+Base Domain: agah.com
+Database: webcrawler_agah_com_20250414_174840
+Total Pages Visited: 32
+Internal Links: 33
+External Links: 687
+
+Crawl Statistics:
+----------------
+Total Requests: 41
+Total Response Size: 69843.90 KB
+Maximum Depth Reached: 3
+Duplicate URLs Filtered: 698
+Total Items Scraped: 720
+Elapsed Time: 0.00 seconds
+
+HTTP Status Codes:
+-----------------
+Status 200: 39 pages
+Status 308: 1 pages
+Status 404: 1 pages
+
+Site Structure:
+---------------
+https://agah.com/
+├── https://bashgah.com/ [EXTERNAL]
+├── https://ava.agah.com/ [EXTERNAL]
+├── http://www.zomorodfund.ir/ [EXTERNAL]
+├── http://1nikokarifund.com/ [EXTERNAL]
+├── http://morvaridagahfund.com/ [EXTERNAL]
+├── https://agahinvest.com/ [EXTERNAL]
+├── https://bashgah.com/blog/category/%d9%81%db%8c%d9%84%d9%85-%d8%a2%d9%85%d9%88%d8%b2%d8%b4%db%8c/ [EXTERNAL]
+├── https://bashgah.com/edu [EXTERNAL]
+├── https://bashgah.com/blog/ [EXTERNAL]
+├── https://jobs.agah.com/ [EXTERNAL]
+├── https://ex.agah.com/login?_gl=1*x33ikp*_ga*MTUwODMyNjAyMC4xNjkxNDA3MDI5*_ga_CX6292C44K*MTY5MTQ3NTg0OS40LjEuMTY5MTQ3NjMyNi4wLjAuMA.. [EXTERNAL]
+├── https://invest.agah.com/fund-detail/14010456836?utm_source=agah.com&utm_medium=banner&utm_campaign=gold_fund&utm_content=&utm_term=4031025 [EXTERNAL]
+├── https://bashgah.com/blog/online-authentication/ [EXTERNAL]
+├── https://bashgah.com/blog/stock-trading/ [EXTERNAL]
+├── https://bashgah.com/blog/change-the-supervising-broker/ [EXTERNAL]
+├── https://bashgah.com/blog/real-estate-investment-trust/ [EXTERNAL]
+├── https://ex.agah.com/ [EXTERNAL]
+├── https://asax.ir/ [EXTERNAL]
+├── https://www.instagram.com/agahcom [EXTERNAL]
+├── https://www.t.me/agahcom [EXTERNAL]
+├── https://www.linkedin.com/company/agahgroup/ [EXTERNAL]
+├── https://twitter.com/agahgroup [EXTERNAL]
+├── https://www.aparat.com/agahex [EXTERNAL]
+├── https://trustseal.enamad.ir/?id=59446&Code=ucnOe5rvFtWMNuCWW5oh [EXTERNAL]
+├── https://sibapp.com/applications/asatrader [EXTERNAL]
+├── https://cafebazaar.ir/app/com.agah.asatrader [EXTERNAL]
+├── http://fastbourse.com/ [EXTERNAL]
+├── https://cafebazaar.ir/app/com.agah.amoozesh [EXTERNAL]
+├── https://agah.com/trading-platforms
+├── https://agah.com/commodity-energy
+├── https://agah.com/commodity-futures
+├── https://agah.com/stock-trading
+├── https://agah.com/agah-services
+├── https://agah.com/brokerage-account
+├── https://agah.com/
+├── https://agah.com/landing/sector-fund-petroagah
+├── https://agah.com/landing/gold-fund
+├── https://agah.com/landing/homay-fund
+├── https://agah.com/landing/yaghout-fund
+├── https://agah.com/landing/agas-fund
+├── https://agah.com/landing/moshtarak-fund
+├── https://agah.com/portfolio-management
+├── https://agah.com/landing/investment-funds
+├── https://agah.com/investment-services
+├── https://agah.com/landing/commodity-car
+├── https://agah.com/bank-accounts
+├── https://agah.com/contact-us
+├── https://agah.com/landing/gold-fund?utm_source=agah.com&utm_medium=banner&utm_campaign=gold_fund&utm_content=&utm_term=4031025
+├── https://agah.com/agah-branches
+├── https://agah.com/about-agah
+├── https://agah.com/training-services-orgs
+├── https://agah.com/agah-academy
+├── https://agah.com/landing/fixed-investment-funds
+├── https://agah.com/landing/sector-fund-aliaj
+├── https://agah.com/landing/pension-fund-andookhte
+├── https://agah.com/landing/autoagah-sector-fund
+├── https://agah.com/landing/agah-reit-fund
+└── https://agah.com/landing/leverage-fund-shetab
