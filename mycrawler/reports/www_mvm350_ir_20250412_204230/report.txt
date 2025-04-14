@@ -1,0 +1,55 @@
+Web Crawler Report
+=================
+
+Timestamp: 2025-04-12T20:42:30.014087
+Base Domain: www.mvm350.ir
+Database: webcrawler_www_mvm350_ir_20250412_204230
+Total Pages Visited: 82
+Internal Links: 83
+External Links: 142
+
+Crawl Statistics:
+----------------
+Total Requests: 118
+Total Response Size: 13793.36 KB
+Maximum Depth Reached: 3
+Duplicate URLs Filtered: 2872
+Total Items Scraped: 225
+Elapsed Time: 0.00 seconds
+
+HTTP Status Codes:
+-----------------
+Status 200: 83 pages
+Status 301: 18 pages
+Status 404: 13 pages
+Status 500: 3 pages
+
+Site Structure:
+---------------
+https://www.mvm350.ir/
+├── https://eron.co/ [EXTERNAL]
+├── https://www.mvm350.ir/page/test-drive
+├── https://www.mvm350.ir/page/trade-in-plan
+├── https://www.mvm350.ir/page/integrated-system
+├── https://www.mvm350.ir/agency
+├── https://www.mvm350.ir/service
+├── https://www.mvm350.ir/FX-sale
+├── https://www.mvm350.ir/FXe-sale
+├── https://www.mvm350.ir/arrizo8-sale
+├── https://www.mvm350.ir/tiggo-8pro-eplus-sale
+├── https://www.mvm350.ir/page/faq
+├── https://www.mvm350.ir/mvmx22-sale
+├── https://www.mvm350.ir/tiggo7pro-sale
+├── https://www.mvm350.ir/tiggo8pro-sale
+├── https://www.mvm350.ir/page/cookie-policy
+├── https://www.mvm350.ir/page/privacy-policy
+├── https://www.mvm350.ir/page/terms-conditions
+├── https://www.mvm350.ir/page/social-responsibility
+├── https://www.mvm350.ir/careers
+├── https://www.mvm350.ir/contact
+├── https://www.mvm350.ir/about
+├── https://www.mvm350.ir/parts
+├── https://www.mvm350.ir/blog
+├── https://www.mvm350.ir/products
+├── https://www.mvm350.ir/
+└── https://www.mvm350.ir/tiggo-7pro-eplus-sale

@@ -1,0 +1,28 @@
+Web Crawler Report
+=================
+
+Timestamp: 2025-04-12T20:04:28.970213
+Base Domain: www.emofid.com
+Database: webcrawler_www_emofid_com_20250412_200428
+Total Pages Visited: 0
+Internal Links: 0
+External Links: 0
+
+Crawl Statistics:
+----------------
+Total Requests: 95
+Total Response Size: 4871.12 KB
+Maximum Depth Reached: 1
+Duplicate URLs Filtered: 0
+Total Items Scraped: 0
+Elapsed Time: 0.00 seconds
+
+HTTP Status Codes:
+-----------------
+Status 200: 46 pages
+Status 307: 45 pages
+Status 308: 4 pages
+
+Site Structure:
+---------------
+https://www.emofid.com/
