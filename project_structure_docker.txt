@@ -1,0 +1,8 @@
+/Final_webcrawler_V2/
+│
+├──.venv
+├── chrome_extension         
+├── packages  
+    ├── requirements.txt            
+├── mycrawler/  
+    ├── api.py            
