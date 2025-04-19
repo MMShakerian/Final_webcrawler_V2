@@ -1,0 +1,49 @@
+Project Structure:
+
+/.git/
+
+/mycrawler/
+  /mycrawler/
+    /spiders/
+      link_spider.py (3.5KB, 95 lines)
+      __init__.py (161B, 5 lines)
+    pipelines.py (17KB, 381 lines)
+    items.py (358B, 16 lines)
+    settings.py (3.5KB, 100 lines)
+    middlewares.py (3.7KB, 104 lines)
+    __init__.py (0.0B, 0 lines)
+  /__pycache__/
+  /reports/
+  README.md (6.6KB, 212 lines)
+  api.py (2.3KB, 68 lines)
+  scrapy.cfg (272B, 12 lines)
+
+/chrome_extension/
+  /js/
+    popup.js (7.6KB, 183 lines)
+    background.js (192B, 6 lines)
+  /css/
+    popup.css (860B, 59 lines)
+  /images/
+    icon.svg (305B, 5 lines)
+  popup.html (4.1KB, 122 lines)
+  manifest.json (333B, 16 lines)
+
+/.venv/
+  /Scripts/
+    fastapi.exe (106KB, 373 lines)
+    uvicorn.exe (106KB, 373 lines)
+    pip3.13.exe (106KB, 373 lines)
+    pip3.exe (106KB, 373 lines)
+    pip.exe (106KB, 373 lines)
+    activate.bat (1.0KB, 35 lines)
+    activate.fish (2.3KB, 70 lines)
+    activate (2.2KB, 77 lines)
+    Activate.ps1 (29KB, 548 lines)
+    python.exe (249KB, 1063 lines)
+    pythonw.exe (244KB, 778 lines)
+    deactivate.bat (393B, 23 lines)
+  .gitignore (1.0B, 1 lines)
+  pyvenv.cfg (231B, 6 lines)
+  /Include/
+  /Lib/ 

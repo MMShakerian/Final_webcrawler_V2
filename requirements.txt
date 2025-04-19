@@ -1,0 +1,11 @@
+scrapy
+pymongo
+bson
+fastapi
+uvicorn
+pydantic
+itemadapter 
+# pip install -r requirements.txt
+
+برای نصب پکیج ها روی سیستم  آفلاین
+#pip install --no-index --find-links=packages -r requirements.txt
