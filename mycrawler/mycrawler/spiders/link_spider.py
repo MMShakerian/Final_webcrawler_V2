@@ -8,6 +8,7 @@ class LinkSpiderSpider(scrapy.Spider):
     name = "link_spider"
     allowed_domains = ["example.com"]
     start_urls = ["https://example.com"]
+    handle_httpstatus_list = [301, 302, 307, 308, 404, 500, 403, 429]
     
     def __init__(self, start_url=None, *args, **kwargs):
         super(LinkSpiderSpider, self).__init__(*args, **kwargs)

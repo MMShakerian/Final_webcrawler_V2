@@ -1,0 +1,409 @@
+{
+  "_id": "67fd34f049c8d8bde48b7b07",
+  "url": "https://www.emofid.com/",
+  "external": false,
+  "children": [
+    {
+      "url": "https://my.emofid.com",
+      "external": true,
+      "children": []
+    },
+    {
+      "url": "https://learning.emofid.com/course/",
+      "external": true,
+      "children": []
+    },
+    {
+      "url": "https://learning.emofid.com/events/",
+      "external": true,
+      "children": []
+    },
+    {
+      "url": "https://learning.emofid.com/articles/",
+      "external": true,
+      "children": []
+    },
+    {
+      "url": "http://mfid.ir/edeasy",
+      "external": true,
+      "children": []
+    },
+    {
+      "url": "https://my.emofid.com/app/auth/login",
+      "external": true,
+      "children": []
+    },
+    {
+      "url": "https://my.emofid.com/app/auth/register",
+      "external": true,
+      "children": []
+    },
+    {
+      "url": "http://mfid.ir/vQSD",
+      "external": true,
+      "children": []
+    },
+    {
+      "url": "https://account.emofid.com/connect/signup?client_id=RegWebApp&redirect_uri=https://reg.emofid.com/",
+      "external": true,
+      "children": []
+    },
+    {
+      "url": "https://learning.emofid.com/introducing-the-rewards-section-of-pellekan/",
+      "external": true,
+      "children": []
+    },
+    {
+      "url": "https://learning.emofid.com/event/market-trend-23f/",
+      "external": true,
+      "children": []
+    },
+    {
+      "url": "https://learning.emofid.com/event/methods-buy-gold-silver-23f/",
+      "external": true,
+      "children": []
+    },
+    {
+      "url": "https://learning.emofid.com/event/ichimoku-advanced-23f/",
+      "external": true,
+      "children": []
+    },
+    {
+      "url": "https://iee.ir/",
+      "external": true,
+      "children": []
+    },
+    {
+      "url": "https://mefa.ir/fa-IR/mefa/1/page/%D8%B5%D9%81%D8%AD%D9%87-%D8%A7%D8%B5%D9%84%DB%8C",
+      "external": true,
+      "children": []
+    },
+    {
+      "url": "https://www.seo.ir/",
+      "external": true,
+      "children": []
+    },
+    {
+      "url": "https://tse.ir/",
+      "external": true,
+      "children": []
+    },
+    {
+      "url": "https://www.seba.ir/",
+      "external": true,
+      "children": []
+    },
+    {
+      "url": "https://www.ifb.ir/",
+      "external": true,
+      "children": []
+    },
+    {
+      "url": "https://www.ime.co.ir/",
+      "external": true,
+      "children": []
+    },
+    {
+      "url": "https://iaif.ir/index.php/fa/",
+      "external": true,
+      "children": []
+    },
+    {
+      "url": "https://my.emofid.com/",
+      "external": true,
+      "children": []
+    },
+    {
+      "url": "https://online.emofid.com/",
+      "external": true,
+      "children": []
+    },
+    {
+      "url": "https://pellekan.emofid.com/",
+      "external": true,
+      "children": []
+    },
+    {
+      "url": "http://www.bourseview.com/",
+      "external": true,
+      "children": []
+    },
+    {
+      "url": "https://learning.emofid.com/",
+      "external": true,
+      "children": []
+    },
+    {
+      "url": "https://se.emofid.com/login.html",
+      "external": true,
+      "children": []
+    },
+    {
+      "url": "https://marketwatch.emofid.com/topofmarket/",
+      "external": true,
+      "children": []
+    },
+    {
+      "url": "https://marketwatch.emofid.com/marketview/",
+      "external": true,
+      "children": []
+    },
+    {
+      "url": "https://learning.emofid.com/questions-archive/",
+      "external": true,
+      "children": []
+    },
+    {
+      "url": "https://learning.emofid.com/support",
+      "external": true,
+      "children": []
+    },
+    {
+      "url": "https://instagram.com/mofidsecurities/",
+      "external": true,
+      "children": []
+    },
+    {
+      "url": "https://www.linkedin.com/company/mofidsecurities/",
+      "external": true,
+      "children": []
+    },
+    {
+      "url": "https://t.me/MofidSecurities",
+      "external": true,
+      "children": []
+    },
+    {
+      "url": "https://trustseal.enamad.ir/?id=4571&Code=03c06kvrGauSkHVQAtMexOua1ghJEisj",
+      "external": true,
+      "children": []
+    },
+    {
+      "url": "https://www.emofid.com/fa/ekhtiar/",
+      "external": false,
+      "children": []
+    },
+    {
+      "url": "https://www.emofid.com/fa/hami/",
+      "external": false,
+      "children": []
+    },
+    {
+      "url": "https://www.emofid.com/fa/bourse-view/",
+      "external": false,
+      "children": []
+    },
+    {
+      "url": "https://www.emofid.com/fa/ati/",
+      "external": false,
+      "children": []
+    },
+    {
+      "url": "https://www.emofid.com/fa/mofidonline/",
+      "external": false,
+      "children": []
+    },
+    {
+      "url": "https://www.emofid.com/fa/easytrader/",
+      "external": false,
+      "children": []
+    },
+    {
+      "url": "https://www.emofid.com/fa/trades/",
+      "external": false,
+      "children": []
+    },
+    {
+      "url": "https://www.emofid.com/fa/funds/",
+      "external": false,
+      "children": []
+    },
+    {
+      "url": "https://www.emofid.com/fa/investment/",
+      "external": false,
+      "children": []
+    },
+    {
+      "url": "https://www.emofid.com/fa/",
+      "external": false,
+      "children": []
+    },
+    {
+      "url": "https://www.emofid.com/fa/mofid-app/",
+      "external": false,
+      "children": []
+    },
+    {
+      "url": "https://www.emofid.com/fa/investment-advice/",
+      "external": false,
+      "children": []
+    },
+    {
+      "url": "https://www.emofid.com/fa/news/",
+      "external": false,
+      "children": []
+    },
+    {
+      "url": "https://www.emofid.com/fa/news/1673/%d8%b3%db%8c-%d8%b3%d8%a7%d9%84-%d9%be%db%8c%d8%b4%d8%b1%d9%81%d8%aa-%d9%85%d8%af%d8%a7%d9%88%d9%85-%d9%85%d9%81%db%8c%d8%af-%d8%af%d8%b1-%d9%86%d9%85%d8%a7%db%8c%d8%b4%da%af%d8%a7%d9%87/",
+      "external": false,
+      "children": []
+    },
+    {
+      "url": "https://www.emofid.com/fa/news/1690/%d8%a2%d8%ba%d8%a7%d8%b2-%d9%be%d8%b0%db%8c%d8%b1%d9%87%d9%86%d9%88%db%8c%d8%b3%db%8c-%d8%b5%d9%86%d8%af%d9%88%d9%82-%d8%aa%d8%ae%d8%b5%d8%b5%db%8c-%d8%af%d8%a7%d8%b1%d9%88%db%8c%db%8c-%d9%85/",
+      "external": false,
+      "children": []
+    },
+    {
+      "url": "https://www.emofid.com/fa/news/1786/%d9%be%d8%b0%db%8c%d8%b1%d9%87%d9%86%d9%88%db%8c%d8%b3%db%8c-%d8%b5%d9%86%d8%af%d9%88%d9%82-%da%a9%d8%a7%d9%86%d9%87%d9%87%d8%a7%db%8c-%d9%81%d9%84%d8%b2%db%8c-%d9%85%d8%b9/",
+      "external": false,
+      "children": []
+    },
+    {
+      "url": "https://www.emofid.com/fa/mofid-card/",
+      "external": false,
+      "children": []
+    },
+    {
+      "url": "https://www.emofid.com/fa/sitemap/",
+      "external": false,
+      "children": []
+    },
+    {
+      "url": "https://www.emofid.com/fa/legal/",
+      "external": false,
+      "children": []
+    },
+    {
+      "url": "https://www.emofid.com/fa/suggestions/",
+      "external": false,
+      "children": []
+    },
+    {
+      "url": "https://www.emofid.com/fa/mifidbook/",
+      "external": false,
+      "children": []
+    },
+    {
+      "url": "https://www.emofid.com/fa/contact/",
+      "external": false,
+      "children": []
+    },
+    {
+      "url": "https://www.emofid.com/fa/investment/mutualfunds/ayar/",
+      "external": false,
+      "children": []
+    },
+    {
+      "url": "https://www.emofid.com/fa/sector-fund/",
+      "external": false,
+      "children": []
+    },
+    {
+      "url": "https://www.emofid.com/fa/atie-fund/",
+      "external": false,
+      "children": []
+    },
+    {
+      "url": "https://www.emofid.com/fa/etf-fund/",
+      "external": false,
+      "children": []
+    },
+    {
+      "url": "https://www.emofid.com/fa/guarantee-fund/",
+      "external": false,
+      "children": []
+    },
+    {
+      "url": "https://www.emofid.com/fa/fixed-income-fund/",
+      "external": false,
+      "children": []
+    },
+    {
+      "url": "https://www.emofid.com/fa/index-fund/",
+      "external": false,
+      "children": []
+    },
+    {
+      "url": "https://www.emofid.com/fa/stock-fund/",
+      "external": false,
+      "children": []
+    },
+    {
+      "url": "https://www.emofid.com/fa/goldinvestment/",
+      "external": false,
+      "children": []
+    },
+    {
+      "url": "https://www.emofid.com/fa/portfolio-management/",
+      "external": false,
+      "children": []
+    },
+    {
+      "url": "https://www.emofid.com/fa/investment/indirect-investment/",
+      "external": false,
+      "children": []
+    },
+    {
+      "url": "https://www.emofid.com/fa/initial-public-offering/",
+      "external": false,
+      "children": []
+    },
+    {
+      "url": "https://www.emofid.com/fa/pellekan/",
+      "external": false,
+      "children": []
+    },
+    {
+      "url": "https://www.emofid.com/fa/suggested-portfolio/",
+      "external": false,
+      "children": []
+    },
+    {
+      "url": "https://www.emofid.com/fa/sejam-auth/",
+      "external": false,
+      "children": []
+    },
+    {
+      "url": "https://www.emofid.com/fa/bourse-code/",
+      "external": false,
+      "children": []
+    },
+    {
+      "url": "https://www.emofid.com/fa/etebar/",
+      "external": false,
+      "children": []
+    },
+    {
+      "url": "https://www.emofid.com/fa/bourse-view-mobile/",
+      "external": false,
+      "children": []
+    },
+    {
+      "url": "https://www.emofid.com/fa/branches/",
+      "external": false,
+      "children": []
+    },
+    {
+      "url": "https://www.emofid.com/fa/bank-accounts/",
+      "external": false,
+      "children": []
+    },
+    {
+      "url": "https://www.emofid.com/fa/mofid-academy/",
+      "external": false,
+      "children": []
+    },
+    {
+      "url": "https://www.emofid.com/fa/jobs/",
+      "external": false,
+      "children": []
+    },
+    {
+      "url": "https://www.emofid.com/fa/about/",
+      "external": false,
+      "children": []
+    }
+  ],
+  "domain": "www.emofid.com",
+  "timestamp": "2025-04-14T19:46:48.828000"
+}
