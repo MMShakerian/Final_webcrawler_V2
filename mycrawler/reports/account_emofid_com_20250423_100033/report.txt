@@ -1,0 +1,30 @@
+Web Crawler Report
+=================
+
+Timestamp: 2025-04-23T10:00:33.014558
+Base Domain: account.emofid.com
+Database: webcrawler_account_emofid_com_20250423_100033
+Total Pages Visited: 3
+Internal Links: 4
+External Links: 6
+
+Crawl Statistics:
+----------------
+Total Requests: 6
+Total Response Size: 63.93 KB
+Maximum Depth Reached: 3
+Duplicate URLs Filtered: 5
+Total Items Scraped: 10
+Elapsed Time: 0.00 seconds
+
+HTTP Status Codes:
+-----------------
+Status 200: 4 pages
+Status 400: 2 pages
+
+Site Structure:
+---------------
+https://account.emofid.com/Login
+├── https://learning.emofid.com/%d8%b1%d9%88%db%8c%d9%87-%d8%a7%d8%b1%d8%a7%d8%a6%d9%87-%d8%ae%d8%af%d9%85%d8%a7%d8%aa-%d9%88-%d8%a7%d9%86%d8%ac%d8%a7%d9%85-%d9%85%d8%b9%d8%a7%d9%85%d9%84%d8%a7%d8%aa-%d8%a8%d8%b1%d8%ae%d8%b7/ [EXTERNAL]
+├── https://account.emofid.com/Register
+└── https://account.emofid.com/ForgotPassword

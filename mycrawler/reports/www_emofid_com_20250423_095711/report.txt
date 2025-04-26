@@ -1,0 +1,111 @@
+Web Crawler Report
+=================
+
+Timestamp: 2025-04-23T09:57:11.960111
+Base Domain: www.emofid.com
+Database: webcrawler_www_emofid_com_20250423_095711
+Total Pages Visited: 46
+Internal Links: 46
+External Links: 44
+
+Crawl Statistics:
+----------------
+Total Requests: 46
+Total Response Size: 144.74 KB
+Maximum Depth Reached: 1
+Duplicate URLs Filtered: 30
+Total Items Scraped: 90
+Elapsed Time: 0.00 seconds
+
+HTTP Status Codes:
+-----------------
+Status 200: 1 pages
+Status 307: 45 pages
+
+Redirect Pages (Count Only):
+---------------------------
+  Status 307: 45 pages
+
+Site Structure:
+---------------
+https://www.emofid.com/
+├── https://my.emofid.com [EXTERNAL]
+├── https://learning.emofid.com/course/ [EXTERNAL]
+├── https://learning.emofid.com/events/ [EXTERNAL]
+├── https://learning.emofid.com/articles/ [EXTERNAL]
+├── http://mfid.ir/edeasy [EXTERNAL]
+├── https://my.emofid.com/app/auth/login [EXTERNAL]
+├── https://my.emofid.com/app/auth/register [EXTERNAL]
+├── http://mfid.ir/vQSD [EXTERNAL]
+├── https://account.emofid.com/connect/signup?client_id=RegWebApp&redirect_uri=https://reg.emofid.com/ [EXTERNAL]
+├── https://learning.emofid.com/introducing-the-rewards-section-of-pellekan/ [EXTERNAL]
+├── https://learning.emofid.com/event/investment-fund-portfolio-30f/ [EXTERNAL]
+├── https://learning.emofid.com/event/technical-pivot-point-30f/ [EXTERNAL]
+├── https://learning.emofid.com/event/price-action-lance-30f/ [EXTERNAL]
+├── https://iee.ir/ [EXTERNAL]
+├── https://mefa.ir/fa-IR/mefa/1/page/%D8%B5%D9%81%D8%AD%D9%87-%D8%A7%D8%B5%D9%84%DB%8C [EXTERNAL]
+├── https://www.seo.ir/ [EXTERNAL]
+├── https://tse.ir/ [EXTERNAL]
+├── https://www.seba.ir/ [EXTERNAL]
+├── https://www.ifb.ir/ [EXTERNAL]
+├── https://www.ime.co.ir/ [EXTERNAL]
+├── https://iaif.ir/index.php/fa/ [EXTERNAL]
+├── https://my.emofid.com/ [EXTERNAL]
+├── https://online.emofid.com/ [EXTERNAL]
+├── https://pellekan.emofid.com/ [EXTERNAL]
+├── http://www.bourseview.com/ [EXTERNAL]
+├── https://learning.emofid.com/ [EXTERNAL]
+├── https://se.emofid.com/login.html [EXTERNAL]
+├── https://marketwatch.emofid.com/topofmarket/ [EXTERNAL]
+├── https://marketwatch.emofid.com/marketview/ [EXTERNAL]
+├── https://learning.emofid.com/questions-archive/ [EXTERNAL]
+├── https://learning.emofid.com/support [EXTERNAL]
+├── https://instagram.com/mofidsecurities/ [EXTERNAL]
+├── https://www.linkedin.com/company/mofidsecurities/ [EXTERNAL]
+├── https://t.me/MofidSecurities [EXTERNAL]
+├── https://trustseal.enamad.ir/?id=4571&Code=03c06kvrGauSkHVQAtMexOua1ghJEisj [EXTERNAL]
+├── https://www.emofid.com/fa/funds/
+├── https://www.emofid.com/fa/investment/
+├── https://www.emofid.com/fa/branches/
+├── https://www.emofid.com/fa/bank-accounts/
+├── https://www.emofid.com/fa/
+├── https://www.emofid.com/fa/mofid-academy/
+├── https://www.emofid.com/fa/jobs/
+├── https://www.emofid.com/fa/about/
+├── https://www.emofid.com/fa/ekhtiar/
+├── https://www.emofid.com/fa/hami/
+├── https://www.emofid.com/fa/bourse-view/
+├── https://www.emofid.com/fa/ati/
+├── https://www.emofid.com/fa/mofidonline/
+├── https://www.emofid.com/fa/easytrader/
+├── https://www.emofid.com/fa/trades/
+├── https://www.emofid.com/fa/mofid-app/
+├── https://www.emofid.com/fa/sitemap/
+├── https://www.emofid.com/fa/legal/
+├── https://www.emofid.com/fa/suggestions/
+├── https://www.emofid.com/fa/mifidbook/
+├── https://www.emofid.com/fa/contact/
+├── https://www.emofid.com/fa/investment/mutualfunds/ayar/
+├── https://www.emofid.com/fa/sector-fund/
+├── https://www.emofid.com/fa/atie-fund/
+├── https://www.emofid.com/fa/etf-fund/
+├── https://www.emofid.com/fa/guarantee-fund/
+├── https://www.emofid.com/fa/fixed-income-fund/
+├── https://www.emofid.com/fa/index-fund/
+├── https://www.emofid.com/fa/stock-fund/
+├── https://www.emofid.com/fa/goldinvestment/
+├── https://www.emofid.com/fa/portfolio-management/
+├── https://www.emofid.com/fa/investment/indirect-investment/
+├── https://www.emofid.com/fa/initial-public-offering/
+├── https://www.emofid.com/fa/pellekan/
+├── https://www.emofid.com/fa/suggested-portfolio/
+├── https://www.emofid.com/fa/sejam-auth/
+├── https://www.emofid.com/fa/bourse-code/
+├── https://www.emofid.com/fa/etebar/
+├── https://www.emofid.com/fa/bourse-view-mobile/
+├── https://www.emofid.com/fa/investment-advice/
+├── https://www.emofid.com/fa/news/
+├── https://www.emofid.com/fa/news/1673/%d8%b3%db%8c-%d8%b3%d8%a7%d9%84-%d9%be%db%8c%d8%b4%d8%b1%d9%81%d8%aa-%d9%85%d8%af%d8%a7%d9%88%d9%85-%d9%85%d9%81%db%8c%d8%af-%d8%af%d8%b1-%d9%86%d9%85%d8%a7%db%8c%d8%b4%da%af%d8%a7%d9%87/
+├── https://www.emofid.com/fa/news/1690/%d8%a2%d8%ba%d8%a7%d8%b2-%d9%be%d8%b0%db%8c%d8%b1%d9%87%d9%86%d9%88%db%8c%d8%b3%db%8c-%d8%b5%d9%86%d8%af%d9%88%d9%82-%d8%aa%d8%ae%d8%b5%d8%b5%db%8c-%d8%af%d8%a7%d8%b1%d9%88%db%8c%db%8c-%d9%85/
+├── https://www.emofid.com/fa/news/1786/%d9%be%d8%b0%db%8c%d8%b1%d9%87%d9%86%d9%88%db%8c%d8%b3%db%8c-%d8%b5%d9%86%d8%af%d9%88%d9%82-%da%a9%d8%a7%d9%86%d9%87%d9%87%d8%a7%db%8c-%d9%81%d9%84%d8%b2%db%8c-%d9%85%d8%b9/
+└── https://www.emofid.com/fa/mofid-card/

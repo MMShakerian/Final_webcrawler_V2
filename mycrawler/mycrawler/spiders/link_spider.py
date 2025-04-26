@@ -2,6 +2,8 @@ import scrapy
 import re
 from urllib.parse import urlparse, urljoin
 from mycrawler.items import PageItem
+import pickle
+import os
 
 
 class LinkSpiderSpider(scrapy.Spider):
@@ -21,9 +23,15 @@ class LinkSpiderSpider(scrapy.Spider):
             self.allowed_domains = [parsed_url.netloc]
             
         self.logger.info(f"Starting crawl with domain: {self.allowed_domains[0]}")
+        self.stop_file = 'stop_crawl.pkl'
         
     def parse(self, response):
         """Process the response and extract links"""
+        # Check if stop file exists
+        if os.path.exists(self.stop_file):
+            self.logger.info('Stopping crawl as stop file is detected.')
+            return
+        
         # Extract the current URL and parent URL
         current_url = response.url
         parent_url = response.meta.get('parent_url', None)
@@ -92,3 +100,13 @@ class LinkSpiderSpider(scrapy.Spider):
                     'depth': depth + 1
                 }
             )
+
+    def stop_crawl(self):
+        with open(self.stop_file, 'wb') as f:
+            pickle.dump({'stop': True}, f)
+        self.logger.info('Crawl stop file created.')
+
+    def remove_stop_file(self):
+        if os.path.exists(self.stop_file):
+            os.remove(self.stop_file)
+            self.logger.info('Crawl stop file removed.')

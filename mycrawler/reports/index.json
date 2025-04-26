@@ -1,6 +1,69 @@
 {
   "reports": [
     {
+      "timestamp": "2025-04-23T10:00:33.014558",
+      "domain": "account.emofid.com",
+      "start_url": "https://account.emofid.com/Login",
+      "report_dir": "reports\\account_emofid_com_20250423_100033",
+      "database": "webcrawler_account_emofid_com_20250423_100033",
+      "total_pages": 3,
+      "internal_links": 4,
+      "external_links": 6,
+      "total_requests": 6,
+      "total_response_size": 65462,
+      "max_depth": 3,
+      "duplicate_urls": 5,
+      "elapsed_time": 0,
+      "status_codes": {
+        "200": 4,
+        "400": 2
+      },
+      "error_pages": [],
+      "spider_exceptions": {}
+    },
+    {
+      "timestamp": "2025-04-23T09:57:11.960111",
+      "domain": "www.emofid.com",
+      "start_url": "https://www.emofid.com/",
+      "report_dir": "reports\\www_emofid_com_20250423_095711",
+      "database": "webcrawler_www_emofid_com_20250423_095711",
+      "total_pages": 46,
+      "internal_links": 46,
+      "external_links": 44,
+      "total_requests": 46,
+      "total_response_size": 148217,
+      "max_depth": 1,
+      "duplicate_urls": 30,
+      "elapsed_time": 0,
+      "status_codes": {
+        "200": 1,
+        "307": 45
+      },
+      "error_pages": [],
+      "spider_exceptions": {}
+    },
+    {
+      "timestamp": "2025-04-23T09:55:39.528515",
+      "domain": "www.emofid.com",
+      "start_url": "https://www.emofid.com/",
+      "report_dir": "reports\\www_emofid_com_20250423_095539",
+      "database": "webcrawler_www_emofid_com_20250423_095539",
+      "total_pages": 46,
+      "internal_links": 46,
+      "external_links": 44,
+      "total_requests": 46,
+      "total_response_size": 147968,
+      "max_depth": 1,
+      "duplicate_urls": 30,
+      "elapsed_time": 0,
+      "status_codes": {
+        "200": 1,
+        "307": 45
+      },
+      "error_pages": [],
+      "spider_exceptions": {}
+    },
+    {
       "timestamp": "2025-04-19T10:06:17.759239",
       "domain": "www.emofid.com",
       "start_url": "https://www.emofid.com/",

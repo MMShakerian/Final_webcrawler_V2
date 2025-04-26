@@ -31,37 +31,58 @@ async def start_crawl(request: CrawlRequest):
         # ایجاد نام منحصر به فرد برای گزارش
         timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
         domain = url.split("//")[-1].split("/")[0].replace(".", "_")
-        report_dir = f"reports/{domain}_{timestamp}"
+        
+        # ایجاد مسیر مطلق برای دایرکتوری گزارش
+        base_dir = os.path.dirname(os.path.abspath(__file__))
+        report_dir = os.path.join(base_dir, "reports", f"{domain}_{timestamp}")
+        
+        # ایجاد دایرکتوری گزارش
+        os.makedirs(report_dir, exist_ok=True)
         
         # اجرای اسپایدر
-        process = subprocess.Popen(
-            ["scrapy", "crawl", "link_spider", "-a", f"start_url={url}"],
-            stdout=subprocess.PIPE,
-            stderr=subprocess.PIPE
-        )
-        
-        # خواندن خروجی
-        stdout, stderr = process.communicate()
-        
-        if process.returncode != 0:
-            raise HTTPException(status_code=500, detail=f"Error running spider: {stderr.decode()}")
-        
-        # خواندن گزارش
-        report_path = os.path.join(report_dir, "report.txt")
-        if os.path.exists(report_path):
-            with open(report_path, "r", encoding="utf-8") as f:
-                report_content = f.read()
-        else:
-            report_content = "No report generated"
-        
-        return {
-            "status": "success",
-            "report_dir": report_dir,
-            "report": report_content
-        }
-        
+        try:
+            process = subprocess.Popen(
+                ["scrapy", "crawl", "link_spider", "-a", f"start_url={url}"],
+                stdout=subprocess.PIPE,
+                stderr=subprocess.PIPE,
+                cwd=os.path.dirname(os.path.abspath(__file__))  # اجرا از دایرکتوری پروژه
+            )
+            
+            # خواندن خروجی
+            stdout, stderr = process.communicate()
+            
+            if process.returncode != 0:
+                error_msg = stderr.decode('utf-8', errors='ignore')
+                raise HTTPException(
+                    status_code=500,
+                    detail=f"Error running spider: {error_msg}"
+                )
+            
+            # خواندن گزارش
+            report_path = os.path.join(report_dir, "report.txt")
+            if os.path.exists(report_path):
+                with open(report_path, "r", encoding="utf-8") as f:
+                    report_content = f.read()
+            else:
+                report_content = "No report generated"
+            
+            return {
+                "status": "success",
+                "report_dir": report_dir,
+                "report": report_content
+            }
+            
+        except subprocess.SubprocessError as e:
+            raise HTTPException(
+                status_code=500,
+                detail=f"Failed to execute spider: {str(e)}"
+            )
+            
     except Exception as e:
-        raise HTTPException(status_code=500, detail=str(e))
+        raise HTTPException(
+            status_code=500,
+            detail=f"An error occurred: {str(e)}"
+        )
 
 if __name__ == "__main__":
     import uvicorn

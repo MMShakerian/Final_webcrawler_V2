@@ -1,0 +1,24 @@
+{
+  "_id": "680889092ba88a407dffea59",
+  "url": "https://account.emofid.com/Login",
+  "external": false,
+  "children": [
+    {
+      "url": "https://learning.emofid.com/%d8%b1%d9%88%db%8c%d9%87-%d8%a7%d8%b1%d8%a7%d8%a6%d9%87-%d8%ae%d8%af%d9%85%d8%a7%d8%aa-%d9%88-%d8%a7%d9%86%d8%ac%d8%a7%d9%85-%d9%85%d8%b9%d8%a7%d9%85%d9%84%d8%a7%d8%aa-%d8%a8%d8%b1%d8%ae%d8%b7/",
+      "external": true,
+      "children": []
+    },
+    {
+      "url": "https://account.emofid.com/Register",
+      "external": false,
+      "children": []
+    },
+    {
+      "url": "https://account.emofid.com/ForgotPassword",
+      "external": false,
+      "children": []
+    }
+  ],
+  "domain": "account.emofid.com",
+  "timestamp": "2025-04-23T10:00:33.023000"
+}
